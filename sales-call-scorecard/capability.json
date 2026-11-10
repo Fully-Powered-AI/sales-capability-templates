@@ -1,0 +1,77 @@
+{
+  "id": "sales-call-scorecard",
+  "name": "Sales call scorecard",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "After a sales call, your sales lead sees how it went against your team's own criteria, each point backed by the words actually said, where the call left the deal, and one focus for the next call. It reviews a call, never a person, and gives no score for anyone's file.",
+  "directory": "https://fullypowered.ai/capabilities/sales-call-scorecard/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising",
+    "industries/insurance"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "sales-call-preparation-brief",
+    "stalled-deal-review",
+    "objection-answers-and-sales-one-pager"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own method for reviewing one sales call for coaching: the team's written criteria as the only yardstick, five marks including one for what the material cannot settle, silence in notes never counted as a miss, the buyer's own words kept apart from the seller's, the goal and last-focus checks, and no score, rating or use in employment decisions."
+    },
+    {
+      "kind": "third-party",
+      "repository": "swan-gtm/gtm-skills",
+      "commit": "78f59eb9e48d4e1a850d38e66d2501d3347da281",
+      "path": "skills/ryan-iyengar/evidence-based-call-scoring/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Quoting the words behind each mark with speaker and time, marking recording gaps first, separating buyer statements from seller claims, not applicable rather than a miss for criteria outside the call type (stated most directly in its references/call-rubric.md), the missing evidence beside each mark, one coaching focus tied to the next call, record changes left to a person, and two reviewers calibrating on the same calls.",
+      "text_reused": false,
+      "notice": "notices/swan-gtm-gtm-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "swan-gtm/gtm-skills",
+      "commit": "78f59eb9e48d4e1a850d38e66d2501d3347da281",
+      "path": "skills/amit-rotstein/call-kpi-scoring/SKILL.md",
+      "licence": "MIT",
+      "contribution": "With its references/speaker-attribution.md: placing each speaker on a side before scoring, a guessed placement confirmed by the person, outside parties kept apart; checking the stated call type against the content; a word-count talk balance labelled as an estimate when there are no timestamps; and conversation and forward motion read separately, with any disagreement named.",
+      "text_reused": false,
+      "notice": "notices/swan-gtm-gtm-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "Zoominfo/zoominfo-mcp-plugin",
+      "commit": "31a1ec506078e0aaf4e14e098e39865f32777d8a",
+      "path": "skills/call-coaching/SKILL.md",
+      "licence": "MIT",
+      "contribution": "The coaching note's shape: a few things that went well and a few to improve, each tied to a moment in the call, each improvement paired with something to try instead; working from notes when there is no transcript; and declining to coach on a point the material is too sparse to support.",
+      "text_reused": false,
+      "notice": "notices/Zoominfo-zoominfo-mcp-plugin-LICENSE.txt"
+    }
+  ]
+}

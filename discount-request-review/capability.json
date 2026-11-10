@@ -1,0 +1,87 @@
+{
+  "id": "discount-request-review",
+  "name": "Discount request review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before a price below list goes to a customer, whoever approves it gets one page: the discount and what it costs in margin, every clause of your own written policy met or missed, who approves and in what order, and what the customer gives in return. A person decides; nothing is sent.",
+  "directory": "https://fullypowered.ai/capabilities/discount-request-review/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/finance-and-accounting"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/manufacturing",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "sales-proposal-preparation",
+    "stalled-deal-review",
+    "sales-pipeline-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: the organization's written policy as the only authority, every clause met, missed, unchecked or not a test, asks the policy does not cover named rather than ruled on, contract terms set aside for the person who handles them, the organization's own decision log for comparison, and a person who approves, sends and records."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/deal-desk/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Reviewing one discount request at a time, between the salesperson who asks and the people who sign; sending each request to the people a policy names rather than deciding it; and asking what the customer commits in writing in return for a deeper price.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/deal-desk/references/discount_economics.md",
+      "licence": "MIT",
+      "contribution": "Measuring a discount by the share of margin it removes, on the reasoning that the cost of delivery stays the same when the price falls, and comparing a request with the discounts the company has usually given.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/deal-desk/references/deal_desk_canon.md",
+      "licence": "MIT",
+      "contribution": "Going no higher than the approval level a request lands in, showing openly every approver a further rule adds, and handling a quote that changes after review as a new request.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/deal-desk/assets/deal_intake_template.md",
+      "licence": "MIT",
+      "contribution": "A single written request as the record of what is being asked, and counting what the customer gives in return only when it has actually been committed.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}

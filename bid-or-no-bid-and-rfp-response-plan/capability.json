@@ -1,0 +1,56 @@
+{
+  "id": "bid-or-no-bid-and-rfp-response-plan",
+  "name": "Bid or no-bid and RFP response plan",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before anyone starts on a response, your bid manager sees every requirement in the request checked against your own evidence, your bid criteria tested and the buyer questions ready. A named person decides whether to bid; then a dated plan says who does what by when.",
+  "directory": "https://fullypowered.ai/capabilities/bid-or-no-bid-and-rfp-response-plan/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/procurement-and-suppliers"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/construction",
+    "industries/government"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "sales-proposal-preparation",
+    "win-loss-review",
+    "sales-pipeline-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: a decision pack kept apart from the plan, a decision recorded by a named person before any plan is made, criteria shown as met, not met or unknown with the fact behind each, dates counted in the company's working days, every gap written as a question for a named role, and a person who approves, sends and submits."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/rfp-responder",
+      "licence": "MIT",
+      "contribution": "Sorting requirements into must-haves, scored items and preferences from the request's wording; keeping requirements in the buyer's order and words; matching each to verifiable evidence as covered, part covered or a gap and never writing around a gap; a missing must-have as a threat to the whole bid; bid criteria fixed before the request is read; late entry, an incumbent and the number of rivals as facts in the decision; the three outcomes of bid, bid with a partner and no bid; a matrix tying requirements to response sections; effort weighted by points.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}
