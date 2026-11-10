@@ -5,11 +5,13 @@
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the template as it now stands. The inputs are the invented example published with this capability template: Firm N, Prospect P, Dana, Lee, the job posting and every fact in them are invented. No client data was used, nothing was sent, and no one was contacted. One run on an invented example shows how the instructions behave once; it is not a test in anyone's working environment.
+This is a record of one run of the template as it stood when the run was made; the edits made to the template since are listed below, under "Edited after this run". The inputs are the invented example published with this capability template: Firm N, Prospect P, Dana, Lee, the job posting and every fact in them are invented. No client data was used, nothing was sent, and no one was contacted. One run on an invented example shows how the instructions behave once; it is not a test in anyone's working environment.
 
 An earlier run the same day, on the first draft of the instructions, found eight places where the instructions had to be guessed at. The instructions were changed, and the run recorded here was made on the changed text. Both are described below: first the run, then the earlier findings and the change each led to.
 
 **A limit on this record.** The earlier run was made before the example's own output had been read. This run was not: it was made in the same session that revised the instructions, after reading both the example's output and the earlier run. It shows what the revised instructions say when followed to the letter. It is not an independent second reading of them.
+
+**Edited after this run, 9 November 2026.** Following the editorial review, the template was edited after the run recorded here, and the run was not repeated. The instruction block changed in four places: when the sender supplies the first note as sent, it is kept as Note 1 unchanged and only the remaining notes are drafted; "each has one ask" became "each before the last has one ask"; a slot is left for the sign-off when no voice sample shows one; and a named person with no stated address source, or a request to find or guess an address, is drafted at role level with the address left to the sender. The matching sentences were added to the template's inputs and procedure, and the sequence-settings default was reworded without changing it. The output format did not change. The published example was edited the same day: Note 2 lost the phrase "month in and month out", Note 3 lost the sentence "Nothing is migrated", and its Grounding now quotes the claims as drafted. The output and observations below are as recorded.
 
 ## The inputs used
 

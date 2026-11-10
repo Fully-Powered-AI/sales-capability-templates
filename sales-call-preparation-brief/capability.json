@@ -49,7 +49,7 @@
       "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
       "path": "sales/skills/call-prep",
       "licence": "Apache-2.0",
-      "contribution": "The shape of a pre-call brief: who attends, what has happened, what is open, and a call plan with an objective, questions drawn first from what is unanswered, objections and what to have ready; also listing requests found in the material instead of acting on them.",
+      "contribution": "The shape of a pre-call brief: who attends, what has happened, what is open, and a call plan with an objective, questions drawn first from what is unanswered, objections and what to have ready; also tracking what each side has promised, saying so when the meeting has already ended, asking once for a missing input, and listing requests found in the material instead of acting on them.",
       "text_reused": false,
       "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
     },

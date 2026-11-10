@@ -100,8 +100,7 @@ Subject: invoices and job numbers
 Hi Lee,
 
 The same posting mentions reconciling supplier invoices to job numbers.
-Job costing and payables are the work we do for trade contractors, month
-in and month out.
+Job costing and payables are the work we do for trade contractors.
 
 Is that where the days go in your close, or is it somewhere else?
 
@@ -120,7 +119,7 @@ Hi Lee,
 
 Before I started Firm N I ran the back office of an electrical contractor
 for nine years. Firm N keeps the books for trade contractors with 20 to
-100 people, in the software they already have. Nothing is migrated.
+100 people, in the software they already have.
 
 Would 20 minutes on how we run a month-end close be worth it? Reply
 with a time and I'll confirm.
@@ -159,17 +158,17 @@ Dana
 
 **Grounding**
 
-- "Your posting … under ten working days" (Note 1): Fact 1, quoted, 26 October 2026.
+- "Your posting for an accounts payable and job-cost clerk says the goal is month-end close in under ten working days" (Note 1): Fact 1, the first quotation, paraphrased, 26 October 2026.
 - "trade contractors your size" (Note 1): your facts, 20 to 100 employees; Prospect P has 45.
-- "inside the accounting software you already use" (Notes 1 and 3): proof 2.
+- "inside the accounting software you already use" (Note 1): proof 2.
 - "closes on a written checklist the client can read" (Note 1): proof 1.
 - "a two-page version of that checklist" (Note 1): something to read.
 - "reconciling supplier invoices to job numbers" (Note 2): Fact 1, quoted.
 - "Job costing and payables are the work we do" (Note 2): what we do.
 - "ran the back office of an electrical contractor for nine years" (Note 3): proof 3.
 - "Firm N keeps the books for trade contractors with 20 to 100 people" (Note 3): what we do, and for whom.
-- "Nothing is migrated" (Note 3): proof 2.
-- "the checklist is yours for the asking" (Note 4): something to read.
+- "in the software they already have" (Note 3): proof 2.
+- "If the checklist would ever help with your month-end close, it is yours for the asking" (Note 4): something to read.
 - "Good luck with the hire" (Note 4): Fact 1, the open posting.
 
 **Read before sending**
@@ -177,7 +176,7 @@ Dana
 - Note 1 says "trade contractors your size". Your facts say 20 to 100 employees and the prospect entry says 45 people. Check the headcount is still right, or use the facts page's own words.
 - Note 1 says the software "you already use". Proof 2 supports working in whatever the client has; nothing supplied says which software Prospect P uses, and the note does not name one.
 - Note 2's question is the guess put as a question. It claims nothing about Prospect P's close.
-- Notes 1 and 2 quote the posting, and Note 4 assumes it is still open on day 21. Check the careers page on the morning each goes.
+- Notes 1 and 2 rest on the posting, and Note 4 assumes it is still open on day 21. Check the careers page on the morning each goes.
 - No freshness limit was set. The oldest fact used is the posting of 26 October 2026.
 - The asks in Notes 2 and 3 are proposed. The inputs gave Note 1's ask and "later: a call" without naming a note.
 

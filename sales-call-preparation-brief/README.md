@@ -33,7 +33,7 @@ A brief you can read in five minutes, about a page when the history is short, in
 4.  **History.** The dated record, shortest form.
 5.  **Promises and questions.** What you owe, what they owe, what is done, and questions somebody asked that nobody has answered.
 6.  **Call plan.** The objective, three to five questions, the objections already raised and what to have ready.
-7.  **Not verified,** and any requests found inside the material, listed for you and not acted on.
+7.  **Not verified,** and any requests found inside the material, set out for you to deal with; the assistant carries none of them out.
 
 Good looks like this: you can check any line against its source in under a minute, and nothing in the meeting surprises you that was already in your own notes.
 
@@ -55,12 +55,12 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - **Your facts page.** What you sell, your call stages and the approved material a person can have ready. The assistant says nothing about your product, price or terms that this page does not say.
 - **How far back to look.** The period of news worth reading, and how old a note can be before it is marked as old.
 - **What may be said about people.** Work roles and what attendees said in meetings. Nothing about private lives, and no guessed titles.
-- **Who answers the hard questions.** The role that owns price and terms, so an open question has somewhere to go.
+- **Who answers the hard questions.** The role that owns price and terms, and the role that answers technical questions such as logins and where data is kept, so an open question has somewhere to go.
 - **Your platform.** It runs in ChatGPT, Claude, Copilot or Gemini. Decide which files and web pages the assistant may read for this work.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 9 November 2026. It was tried once on its own invented example on 9 November 2026, and the record of that run lists what worked and what did not. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this capability template. It was editorially reviewed on 9 November 2026. It was tried on its own invented example on 9 November 2026. The recorded run was one of several that day, and the record describes the earlier ones and lists what worked and what did not. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on meetings you have already had, plus hard cases written in advance, each with its expected behavior: an attendee nobody has met, a promise your side forgot, a public page that disagrees with your notes, an email that asks the assistant to send something. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 

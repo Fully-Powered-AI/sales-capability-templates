@@ -109,7 +109,7 @@ Status: Prepared for Marisol. Nothing has been sent, booked or changed.
 
 - Every section of the output format was produced, in order, with the published labels, and the status line closes the brief.
 - The promise that had been forgotten (the pilot fee answer) came out first under "Before the call" and under "We owe" with a pointer back, and was not listed as done.
-- All five promises in the notes were placed, each in one list. The promise to confirm the accounting link is under "Done", closed by Odette, who found the package on the list. "IT hasn't looked" is under "Not verified" with the words "nobody promised it", and "They owe" reads "Nothing open in the sources."
+- All six promises in the notes were placed, each in one list. The promise to confirm the accounting link is under "Done", closed by Odette, who found the package on the list. "IT hasn't looked" is under "Not verified" with the words "nobody promised it", and "They owe" reads "Nothing open in the sources."
 - "Unanswered" holds only questions somebody asked: the two passed on for Priyanka. The unnamed vendor and the budget are under "Not verified" and in the questions.
 - The new attendee was marked NEW with the words "title not supplied", and the title is listed as not verified. No title was guessed.
 - The two technician counts were both quoted, marked "Sources disagree", placed under "Before the call" because they size what is being priced, and turned into the first question.
@@ -134,3 +134,14 @@ Status: Prepared for Marisol. Nothing has been sent, booked or changed.
 **Compared with the published example**
 
 The two briefs agree on the facts, the sources, the three items under "Before the call", the open promise, the five closed promises and who closed each, the empty "They owe", what counts as unanswered, both objections, what to have ready, the request found in the email and the status line. They differ in the wording of the objective and the questions, in the points listed above, and in the inference: the published example infers that Odette is leading on their side. Nothing in this run contradicts the published example.
+
+## Edits after this run
+
+9 November 2026, after the independent review. The template and the example were edited and the run above was not repeated, so the recorded output shows the template as it stood before these changes:
+
+- "No approved answer supplied" now sends a matter that is not price or terms to "the role that owns it" (shortcoming 3).
+- A history line is now exempt from the rule that every factual line names its source; it carries its date only (shortcoming 6).
+- A fact about how the other side is buying now goes under the person who said it or the person it is about (shortcoming 5).
+- "Not verified" now puts first the lines that bear on what the meeting is meant to settle (shortcoming 1). No limit on its length was added.
+- The published example gained one "Not verified" line, on whether money is available before 1 January, pointing to its question 4.
+- A count under "What worked" in this record was corrected from five promises to six: one open and five closed, as the brief above shows.

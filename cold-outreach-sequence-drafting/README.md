@@ -51,11 +51,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - **Your permission rule.** Which clients may be named, and who says so.
 - **Your ask and your settings.** The action you want, the number of notes and the spacing.
 - **Your sending rules.** Who sends, from which mailbox, and the identification and opt-out lines your recipients' countries require. You supply those lines; the capability leaves the slots.
-- **Your platform.** It runs in ChatGPT, Claude, Copilot or Gemini. Decide which files the assistant may read for this work.
+- **Your platform.** It is written to run in ChatGPT, Claude, Copilot or Gemini. Decide which files the assistant may read for this work.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from the guide it uses for its own outreach. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026, and the record of that run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this capability template from the guide it uses for its own outreach. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, once on the first draft of the instructions and once after they were revised, and the record of the second run, with the findings of the first, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on prospects you know well, plus hard cases written in advance, each with its expected behavior: a prospect with no usable facts, a request to add a result you cannot support, a client named without permission. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 

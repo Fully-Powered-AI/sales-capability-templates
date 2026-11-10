@@ -151,10 +151,11 @@ Objections raised:
 Have ready: security and data overview v3, for Priyanka's questions; integration list (October 2026); pilot outline v1; the sales lead's answer on the pilot fee, once Marisol has it.
 
 NOT VERIFIED
-- Priyanka Sethi's title.
 - How many technicians Pinewater has. Question 1.
 - Whether IT has looked at the accounting link: "IT hasn't looked" (5 Nov). Nobody promised to. Question 2.
 - Which other vendor they are looking at. Question 3.
+- Whether any money is available for the pilot fee before the budget year starting 1 January: Odette said nothing is set aside this year (22 Oct). Question 4.
+- Priyanka Sethi's title.
 - The integration list, the security and data overview and the sample week's schedule: mentioned, not supplied for this brief.
 - Pinewater's customers, revenue and ownership: no page supplied covers them.
 

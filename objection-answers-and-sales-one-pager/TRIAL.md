@@ -4,7 +4,7 @@
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
-- **Runs:** the run recorded here is the last of three made the same day. The two before it, and what each changed, are summarised at the end.
+- **Runs:** the run recorded here is the last of three made the same day. The two before it, and what each changed, are summarised at the end. The template was edited after this run and has not been run again; the changes are listed at the end.
 
 This is a record of one run. The inputs are the invented example published with this capability template: Quillhaven Fleet Care, Brambleside Provisions, Dana and every fact, figure and quotation in them are invented. No client data was used, nothing was sent, and no one was contacted. One run on an invented example shows how the instructions behave once; it is not a test in anyone's working environment.
 
@@ -243,3 +243,15 @@ The "What came out" section of the worked example is this output set out with he
 - the example's fact sheet gained three statements the old example had relied on without holding them: that a van serviced overnight is ready to drive by 5am, that a van carrying a refrigeration unit is taken on the plan, and that the assessment carries no obligation. Dana's request now gives her settings.
 
 **A first run on the revised template.** Made the same way as the run recorded here. It followed the new rules, and showed three further gaps: for an expected objection it wrote "A guess" and named no worry and no "Ask first" question; its notes on the inputs ran to eleven items; and its one-pager listed, under "What is not included", the figures the fact sheet does not hold. The block was changed on those three points only (a guess still names the worry, and more than one worry gets an "Ask first" question that differs from the closing question; the notes are kept to six short lines; the "not held" list stays out of the one-pager). The run recorded above was then made on the block as it now stands.
+
+## Edits made after the recorded run
+
+9 November 2026. After an independent review, the template was edited on five small points. It was not run again, so the output and observations above describe the block as it stood before these edits.
+
+- The block now lists the fact-sheet questions to ask when there is no fact sheet. Before, it said only to stop and ask for one.
+- The block now carries two rules that were in the procedure only: the default reader of the one-pager when none is named, and when two objections may be merged. The inputs section no longer says to ask once about a missing call detail; like the block, it says to record it in the notes and continue.
+- "Copied" is now defined, in the block, the procedure and the reviewer checklist, as agreeing with the fact sheet in figure and meaning; a row may shorten the fact. The checklist used to say word for word, which is the standard the reading above applied to rows 4, 7, 16, 18 and 23.
+- The block and the procedure now say that a promise to find something out is the salesperson's to make, and that what has to be found out is listed under open items. Answer 1 above makes such a promise, and the matching item is under the operations lead's open items.
+- A credit line in the capability's source record was reworded. No instruction changed.
+
+The same review noted one thing the observations above do not: the six notes on the inputs keep to the count the block asks for, but each is one or two full sentences, which is longer than "short lines".

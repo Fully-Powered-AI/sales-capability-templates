@@ -29,10 +29,10 @@ Do not use it when:
 1. **Your facts.** A short page the sender supplies: what you sell and for whom, in a sentence or two; the proof you can support; what you never say; any client you may name, with the permission on record; who signs. If it is missing, stop and ask for it. Nothing about the company is written without it.
 2. **The prospect or the segment.** The role, the kind of company, and each fact with its source and date. For a named person, where their address came from. A "leave out" line. With no usable fact, the sequence is written for the segment.
 3. **The ask.** One action per note: a reply to a question, permission to send something to read, or a short call with its length. If missing, propose a reply to a question and mark it proposed. If you give a later ask without saying which note carries it ("Later: a call"), the assistant proposes one note for it, gives any note left without an ask a question to reply to, and marks both proposed. The closing note needs no new ask. Optionally, a booking route for a call; without one, the note asks for a reply with a time.
-4. **Sequence settings.** The number of notes and the days between them. If missing, propose `[your number of notes]` and `[your spacing]`, marked proposed; the unset default is four notes on days 0, 4, 10 and 21.
+4. **Sequence settings.** The number of notes and the days between them. If missing, propose `[your number of notes]` at `[your spacing]` (four notes on days 0, 4, 10 and 21 if unset), marked proposed.
 5. **A voice sample** (optional). One or two emails the sender really wrote. Without one, write plainly and say so.
 6. **Something to read** (optional). A guide, checklist or example that exists today. If it is unfinished, it is not offered.
-7. **Earlier notes and what happened** (when drafting follow-ups). The first note as sent, and whether anything came back.
+7. **Earlier notes and what happened** (when drafting follow-ups). The first note as sent, and whether anything came back. The note as sent is kept as Note 1, unchanged, and only the remaining notes are drafted.
 
 ## The procedure
 
@@ -45,7 +45,7 @@ Do not use it when:
    - Something small to read first: offer the supplied reading and ask whether they want it. No link in the first note; it goes only to someone who says yes.
    - An introduction to forward: a few lines about the sender in the third person, for a named introducer to pass on, used only when the sender supplies that introducer.
 6. **Give each note one purpose.** The first shows why the note applies to the reader. Each follow-up adds one new thing. It may come from your facts (a second problem you solve, a reason to believe, one common objection answered with its limit, or the reading), it may be one more supplied fact or detail about the prospect, or it may be the guess put as a question. The last note closes.
-7. **Draft the first note.** Plain text, at most `[your word limit]` words (120 if unset).
+7. **Draft the first note.** Plain text, at most `[your word limit]` words (120 if unset). If the first note as sent was supplied, keep it as Note 1 unchanged and go to step 8.
    - Open on the reader's situation, at the level set in step 3.
    - Say what the company does in words from your facts.
    - Give proof only from "proof you can support".
@@ -192,14 +192,16 @@ booking route, a note that asks for a call asks for a reply with a time.
    another limit. Open on the reader's situation. Say what the company
    does in words from the facts page. Use proof only from "proof you can
    support". Make one direct ask. Leave slots for the identification
-   line and the opt-out line.
+   line and the opt-out line, and for the sign-off if no voice sample
+   shows one. If the sender supplies the first note as sent, keep it as
+   Note 1 unchanged and draft only the remaining notes.
 6. Write the subject of every note, the last included, as a few plain
    words naming the reader's work or concern. No figure, no first name,
    no urgency, no reply or forward marker.
-7. Write the follow-ups, none longer than Note 1. Each stands alone, has
-   one ask, and adds one new thing: a line from the facts page, one more
-   supplied fact or detail about the prospect, or your guess put as a
-   question. Head each "Adds: ..." and "Use only if there has been no
+7. Write the follow-ups, none longer than Note 1. Each stands alone and
+   adds one new thing: a line from the facts page, one more supplied
+   fact or detail about the prospect, or your guess put as a question.
+   Each before the last has one ask. Head each "Adds: ..." and "Use only if there has been no
    reply." The last note says it is the last, asks for nothing new,
    leaves the offer standing and wishes the reader well.
 8. Match the voice sample's greeting, sign-off, sentence length and
@@ -224,8 +226,10 @@ a scarcity. Name a client only if the facts page records permission. If
 asked to add something the facts page does not support, decline and name
 the line that would be needed. Do not say what the law requires where the
 reader is; leave the slots and tell the sender it is theirs to settle.
-Draft nothing for a prospect marked "do not contact" or one who has
-already replied. If asked to send, decline and return the drafts.
+If a named person comes with no stated address source, or you are asked
+to find or guess an address, draft at role level and leave the address
+to the sender. Draft nothing for a prospect marked "do not contact" or
+one who has already replied. If asked to send, decline and return the drafts.
 
 Use the output format provided and open with the status line: "Drafts
 for [sender]. Not sent."
@@ -238,11 +242,11 @@ for [sender]. Not sent."
 - `[your number of notes]`, `[your spacing]` and `[your word limit]`.
 - `[your freshness limit]`: how old a fact about a prospect may be before it is not used.
 - The asks you allow, and the call length you offer.
-- Words and phrases your company never uses, added to step 10.
+- Words and phrases your company never uses, added to the list of tells (procedure step 10, item 9 of the instruction block).
 - The identification and opt-out lines for each country you write to, settled by you with whoever advises you.
 - Who sends, from which mailbox, and where sent notes and replies are recorded.
 - Which files the assistant may read in ChatGPT, Claude, Copilot or Gemini, and where the drafts are saved.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI from the guide it uses for its own outreach. Editorially reviewed. Tried once on its invented example in Claude on 9 November 2026; the record of that run is kept with the template. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by Fully Powered AI from the guide it uses for its own outreach. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026, once on the first draft of the instructions and once after they were revised; the record of the second run, with the findings of the first, is kept with the template. Edited after that run, following the editorial review; the record lists the edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

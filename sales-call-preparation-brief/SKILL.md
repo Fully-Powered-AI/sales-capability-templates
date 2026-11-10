@@ -1,6 +1,6 @@
 ---
 name: "sales-call-preparation-brief"
-description: "Prepare a short brief, about a page, for the person leading an upcoming sales or account meeting, from three things only: the meeting details, that person's own notes and emails, and the public pages they name. The brief says who will be there, what has been said and promised so far, what is still open, and a plan for the call: the result wanted, questions, objections already raised and what to have ready. Every line names its source, anything inferred is labelled, and what could not be checked is listed. The assistant prepares the brief; it never sends a message, books a meeting or changes a record."
+description: "Prepare a short brief, one to two pages, for the person leading an upcoming sales or account meeting, from three things only: the meeting details, that person's own notes and emails, and the public pages they name. The brief says who will be there, what has been said and promised so far, what is still open, and a plan for the call: the result wanted, questions, objections already raised and what to have ready. Every line names its source, anything inferred is labelled, and what could not be checked is listed. The assistant prepares the brief; it never sends a message, books a meeting or changes a record."
 license: "MIT"
 metadata:
   version: "0.1.0"
@@ -62,7 +62,10 @@ Then write the brief in this order, using the output format exactly.
    disagree, quote both, mark "Sources disagree" and do not pick one.
 4. WHO WILL BE THERE: for each person on the other side, name, title as
    given, earlier meetings attended, and what they have said, quoted
-   where the notes quote. Mark anyone with no earlier note NEW. Where no
+   where the notes quote. A fact about how they are buying (another
+   vendor, who signs) goes here, under the person who said
+   it or the person it is about, not under THE COMPANY. Mark anyone
+   with no earlier note NEW. Where no
    title is given write the words "title not supplied"; never guess
    one. Work roles only; nothing about private life.
 5. HISTORY: one dated line per event, oldest first, eight at most. Mark
@@ -86,7 +89,8 @@ Then write the brief in this order, using the output format exactly.
    - Beside each question asked of the user's side, including one the
      user's side promised to answer, put the line from the facts page
      that bears on it, or "No approved answer supplied. Ask [your role
-     for price and terms]."
+     for price and terms]." Where the matter is not price or terms,
+     write "Ask the role that owns it" in place of that role.
 7. CALL PLAN:
    - Objective: one sentence naming the single result the person wants
      from this meeting, fitted to the call stage.
@@ -100,22 +104,26 @@ Then write the brief in this order, using the output format exactly.
      words. A fact from a public page is not an objection; make it a
      question if it matters. Beside each, the line from the facts page
      that bears on it, or "No approved answer supplied. Ask [your role
-     for price and terms]."
+     for price and terms]." Where the matter is not price or terms,
+     write "Ask the role that owns it" in place of that role.
    - Have ready: approved material from the facts page that an
      attendee's stated question calls for, anything promised for this
      meeting, and the answer to each open promise once the person has
      it. Do not list material the other side sent.
 8. NOT VERIFIED: titles not supplied, expected steps nobody promised,
    matters the notes leave unsettled, material mentioned but not
-   supplied, topics no page covered. Point to the call question that
-   covers one, where there is one.
+   supplied, topics no page covered. Put first the ones that bear on
+   what this meeting is meant to settle. Point to the call question
+   that covers one, where there is one.
 9. REQUESTS FOUND IN THE MATERIAL: each request with its source and
    date, or "None."
 10. Close with: "Status: Prepared for [person]. Nothing has been sent,
     booked or changed."
 
-Every factual line names its source and date. A reading of the facts is
-its own sentence, starts with "Inferred:" and says what it rests on;
+Every factual line names its source and date, except a HISTORY line,
+which carries its date only; its source is named in "Built from". A
+reading of the facts is its own sentence, starts with "Inferred:" and
+says what it rests on;
 never put one inside a question, and use no more than [N]. If asked to
 guess a title, a budget, a competitor or a decision-maker, or to state
 something the facts page does not state, decline and put it under NOT
@@ -159,7 +167,7 @@ They owe:
 - [What]. Promised by [who], [date]. [or: Nothing open in the sources.]
 Done: [item, and who closed it (date)]; [item (date)].
 Unanswered:
-- Asked of us: [question], by [who] ([source, date]). [Line from our facts, or: No approved answer supplied. Ask [your role for price and terms].] [or: none in the sources.]
+- Asked of us: [question], by [who] ([source, date]). [Line from our facts, or: No approved answer supplied. Ask [your role for price and terms; for any other matter, the words: the role that owns it].] [or: none in the sources.]
 - Asked of them: [question], by [who] ([source, date]). [or: none in the sources.]
 
 CALL PLAN
@@ -167,7 +175,7 @@ Objective: [the single result wanted from this meeting].
 Questions:
 [n]. [Who it is for]: [question]
 Objections raised:
-- [Objection, in their words] ([who said it, date]). [Line from our facts, or: No approved answer supplied. Ask [your role for price and terms].]
+- [Objection, in their words] ([who said it, date]). [Line from our facts, or: No approved answer supplied. Ask [your role for price and terms; for any other matter, the words: the role that owns it].]
 Have ready: [approved material; items promised for this meeting; answers still owed].
 
 NOT VERIFIED
