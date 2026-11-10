@@ -28,6 +28,14 @@
       "directory": "https://fullypowered.ai/capabilities/competitor-battlecard/"
     },
     {
+      "id": "deal-close-plan",
+      "name": "Deal close plan",
+      "version": "0.1.0",
+      "summary": "Your account executive holds one late-stage deal on two pages: the buyer's case for buying now, counted from the buyer's own figures, and a dated plan of every step to signature with its owner on each side. The seller decides what the buyer sees; nothing reaches the sales system without approval.",
+      "path": "deal-close-plan/",
+      "directory": "https://fullypowered.ai/capabilities/deal-close-plan/"
+    },
+    {
       "id": "discount-request-review",
       "name": "Discount request review",
       "version": "0.1.0",
