@@ -1,0 +1,67 @@
+{
+  "id": "sales-call-preparation-brief",
+  "name": "Sales call preparation brief",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Your salesperson, partner or account manager walks into every meeting with a brief they can read in five minutes: who will be there, what has been said and promised so far, what is still open, and a plan for the call. Every line traces to your own notes or a public page, and anything inferred is labelled.",
+  "directory": "https://fullypowered.ai/capabilities/sales-call-preparation-brief/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/marketing-and-advertising",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "sales-proposal-preparation",
+    "account-handoff",
+    "client-status-update-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own notes-and-public-pages method for preparing a sales or account meeting: the source rule, the commitments ledger, the stop conditions and the checks."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "sales/skills/call-prep",
+      "licence": "Apache-2.0",
+      "contribution": "The shape of a pre-call brief: who attends, what has happened, what is open, and a call plan with an objective, questions drawn first from what is unanswered, objections and what to have ready; also listing requests found in the material instead of acting on them.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "sales/skills/account-research",
+      "licence": "Apache-2.0",
+      "contribution": "How the public research is ordered: company basics, recent dated signals, priorities labelled as inference, a check on whether a colleague already holds the account, and naming what could not be verified.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    }
+  ]
+}

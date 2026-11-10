@@ -1,0 +1,67 @@
+{
+  "id": "objection-answers-and-sales-one-pager",
+  "name": "Objection answers and sales one-pager",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Walk into the call with an answer for every objection you expect, each with its honest limit and the proof behind it, and one page to leave behind. Everything is built from the facts you supply, so nothing on the page is a claim you cannot stand behind.",
+  "directory": "https://fullypowered.ai/capabilities/objection-answers-and-sales-one-pager/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/marketing-and-advertising",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "sales-proposal-preparation",
+    "sales-call-preparation-brief",
+    "inquiry-handoff",
+    "account-handoff"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own working guide for preparing sales conversations: one-pagers and objection answers with their limits."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/sales-enablement",
+      "licence": "MIT",
+      "contribution": "The method our working guide rewrote: a quick sheet beside a fuller entry for each objection, the concern behind the words and a question to settle it when it is unclear, proof a salesperson can defend, treating what a buyer reports about another supplier as unchecked, a closing question, saying when not to fight, keeping a record of objections after the call, a short form when time is short, and the order of a one-page leave-behind.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "sales/skills/handle-objection",
+      "licence": "Apache-2.0",
+      "contribution": "Four ideas: the kinds an objection can be sorted into; asking whether the buyer wants a reason to go ahead or better terms; stating the concern behind the words in a sentence or two; and the shape of a short spoken answer that starts with what the buyer has right, uses what this buyer has already said, brings one piece of proof and closes on a question.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    }
+  ]
+}

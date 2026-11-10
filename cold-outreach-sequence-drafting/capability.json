@@ -1,0 +1,54 @@
+{
+  "id": "cold-outreach-sequence-drafting",
+  "name": "Cold outreach sequence drafting",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Your outreach reads like you wrote it on your best day: a first note and its follow-ups, drafted in your own voice, where every line about the prospect traces to a dated fact and every line about your company traces to facts you supplied. You read it, edit it and send it yourself.",
+  "directory": "https://fullypowered.ai/capabilities/cold-outreach-sequence-drafting/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/advertising-and-lead-generation"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "sales-proposal-preparation",
+    "account-handoff"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The outreach drafting guide Fully Powered AI uses for its own outreach."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/cold-email",
+      "licence": "MIT",
+      "contribution": "The method our own guide adapted: gather the facts before choosing the angle and keep a source for each one, fall back to the segment when nothing specific to the company is found, open on the reader's situation, tie any personal detail to the problem, make one small ask, keep subject lines plain, give every follow-up something new, honour the closing note, and let any reply stop every channel, with the not-now, away, opt-out and bounce cases handled apart.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    }
+  ]
+}

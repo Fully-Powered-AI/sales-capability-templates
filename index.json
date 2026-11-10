@@ -1,8 +1,32 @@
 {
-  "repository": "Fully-Powered-AI/sales-capabilities",
+  "repository": "Fully-Powered-AI/sales-capability-templates",
   "title": "Sales",
   "term": "functions/sales",
   "capabilities": [
+    {
+      "id": "cold-outreach-sequence-drafting",
+      "name": "Cold outreach sequence drafting",
+      "version": "0.1.0",
+      "summary": "Your outreach reads like you wrote it on your best day: a first note and its follow-ups, drafted in your own voice, where every line about the prospect traces to a dated fact and every line about your company traces to facts you supplied. You read it, edit it and send it yourself.",
+      "path": "cold-outreach-sequence-drafting/",
+      "directory": "https://fullypowered.ai/capabilities/cold-outreach-sequence-drafting/"
+    },
+    {
+      "id": "objection-answers-and-sales-one-pager",
+      "name": "Objection answers and sales one-pager",
+      "version": "0.1.0",
+      "summary": "Walk into the call with an answer for every objection you expect, each with its honest limit and the proof behind it, and one page to leave behind. Everything is built from the facts you supply, so nothing on the page is a claim you cannot stand behind.",
+      "path": "objection-answers-and-sales-one-pager/",
+      "directory": "https://fullypowered.ai/capabilities/objection-answers-and-sales-one-pager/"
+    },
+    {
+      "id": "sales-call-preparation-brief",
+      "name": "Sales call preparation brief",
+      "version": "0.1.0",
+      "summary": "Your salesperson, partner or account manager walks into every meeting with a brief they can read in five minutes: who will be there, what has been said and promised so far, what is still open, and a plan for the call. Every line traces to your own notes or a public page, and anything inferred is labelled.",
+      "path": "sales-call-preparation-brief/",
+      "directory": "https://fullypowered.ai/capabilities/sales-call-preparation-brief/"
+    },
     {
       "id": "sales-proposal-preparation",
       "name": "Sales proposal preparation",
