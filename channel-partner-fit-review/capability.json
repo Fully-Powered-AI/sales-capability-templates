@@ -1,0 +1,129 @@
+{
+  "id": "channel-partner-fit-review",
+  "name": "Channel partner fit review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "When a referral, reseller or alliance partner approaches, the founder or head of partnerships gets one review: evidence the partner brings customers of its own, the type that evidence supports, a ninety-day plan with signs to go on or stop, and the commission range that still beats selling direct. A person decides.",
+  "directory": "https://fullypowered.ai/capabilities/channel-partner-fit-review/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/manufacturing",
+    "industries/hardware-and-physical-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/new-business-lines",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "referral-programme-design",
+    "prospect-list-by-role-and-firm-type",
+    "discount-request-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-10",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-10",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared work: the organization's own figures as the only basis for the economics, with no typical rates supplied; every claim marked confirmed, stated by the partner or unknown, with confirmation only from someone other than the partner; named customers checked against the organization's own accounts export; the year break-even rate at the partner's promised volume; ninety-day targets worked out from that volume and the organization's win rate; agreement terms set aside for the person who handles them; and a person who decides and replies."
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/partnerships-architect/SKILL.md",
+      "licence": "MIT",
+      "contribution": "Building the review around the moment a would-be partner gets in touch: whether it brings buyers or mainly wants better terms, which type it should be, how a first quarter would prove it and what rate still pays better than selling yourself, with a person making the choice; and, for selling together, asking for the shared offer in one sentence with the customer it is for, an outcome neither side could deliver alone.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/partnerships-architect/assets/partnership_intake_template.md",
+      "licence": "MIT",
+      "contribution": "Asking for the past year's customers that you would want too, counting only people who are paid to sell, writing unknown in place of a guess, and a few warning signs such as a hurry to sign and a region asked for outright.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/partnerships-architect/references/channel_partner_canon.md",
+      "licence": "MIT",
+      "contribution": "Partner types that run from passing on introductions to selling together, and checking whether the customers a partner names already knew you.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/partnerships-architect/references/joint_gtm_canon.md",
+      "licence": "MIT",
+      "contribution": "A first ninety days with groundwork, a midpoint check and a choice at the end to carry on, change or stop, and asking whether a reseller can sell with none of your own salespeople present.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/partnerships-architect/references/partnership_anti_patterns.md",
+      "licence": "MIT",
+      "contribution": "Settling in advance what would end a partnership, making any marketing money pay for a specific activity with a stated return, putting conditions on any region held alone, and paying only for introductions that were new.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/partnerships-architect/scripts/revshare_modeler.py",
+      "licence": "MIT",
+      "contribution": "Setting the margin on a deal you win yourself beside the same deal won through a partner, and counting how many partner deals a year cover the partnership's fixed cost.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/partnerships-architect/scripts/partner_tier_classifier.py",
+      "licence": "MIT",
+      "contribution": "Placing a partner at the most demanding type it fully qualifies for, with referral to fall back on.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "alirezarezvani/claude-skills",
+      "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+      "path": "commercial/skills/partnerships-architect/scripts/joint_gtm_planner.py",
+      "licence": "MIT",
+      "contribution": "Letting the partner's type decide which steps the plan holds, so a partner that only introduces is given no selling steps.",
+      "text_reused": false,
+      "notice": "notices/alirezarezvani-claude-skills-LICENSE.txt"
+    }
+  ]
+}

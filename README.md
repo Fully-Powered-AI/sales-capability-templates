@@ -2,11 +2,12 @@
 
 Answer in minutes what used to take weeks. These capability templates take the preparation that slows a sales team down and give an AI assistant a precise way to do it, with every claim traced to evidence and a person deciding what goes to the buyer.
 
-This repository holds 13 capability templates for sales teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 14 capability templates for sales teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The capabilities
 
 - **[Bid or no-bid and RFP response plan](bid-or-no-bid-and-rfp-response-plan/)**: Before anyone starts on a response, your bid manager sees every requirement in the request checked against your own evidence, your bid criteria tested and the buyer questions ready. A named person decides whether to bid; then a dated plan says who does what by when.
+- **[Channel partner fit review](channel-partner-fit-review/)**: When a referral, reseller or alliance partner approaches, the founder or head of partnerships gets one review: evidence the partner brings customers of its own, the type that evidence supports, a ninety-day plan with signs to go on or stop, and the commission range that still beats selling direct. A person decides.
 - **[Cold outreach sequence drafting](cold-outreach-sequence-drafting/)**: Your outreach reads like you wrote it on your best day: a first note and its follow-ups, drafted in your own voice, where every line about the prospect traces to a dated fact and every line about your company traces to facts you supplied. You read it, edit it and send it yourself.
 - **[Competitor battlecard](competitor-battlecard/)**: Your salespeople get one page on one named competitor: where it is strong, where you are stronger and the proof, what to say when it comes up, and the questions to ask. Nothing about the competitor goes on the card without a dated source; anything unsupported is held back for the approver.
 - **[Deal close plan](deal-close-plan/)**: Your account executive holds one late-stage deal on two pages: the buyer's case for buying now, counted from the buyer's own figures, and a dated plan of every step to signature with its owner on each side. The seller decides what the buyer sees; nothing reaches the sales system without approval.
