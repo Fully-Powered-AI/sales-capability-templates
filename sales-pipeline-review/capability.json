@@ -1,0 +1,67 @@
+{
+  "id": "sales-pipeline-review",
+  "name": "Sales pipeline review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Each week your sales lead sees the whole open pipeline on one page: value and age by stage, what moved since last week, the deals at risk and coverage against your target. Every figure traces to your export, and the forecast number is left for a person to commit.",
+  "directory": "https://fullypowered.ai/capabilities/sales-pipeline-review/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/manufacturing",
+    "industries/logistics-and-trade"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "stalled-deal-review",
+    "sales-call-preparation-brief",
+    "sales-proposal-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for prepared reviews: fixed export columns with a stop on any mismatch, a bridge that proves last week's open value becomes this week's, missing deals held apart rather than counted as lost, blank amounts kept as unknown, and a forecast line that only a named person fills."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "sales/skills/pipeline-review",
+      "licence": "Apache-2.0",
+      "contribution": "A stage-by-stage rollup of the open pipeline (count, value, age in stage, blank next steps, inactivity), the set of risk flags, coverage of what remains of the target, a win rate and cycle length from recent closed deals, a short list of where to focus first, and a read-only review that works from an uploaded export.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "markfulton/ai-employees",
+      "commit": "7b0d076e0db103216455b2b42e6764d6f863bdcd",
+      "path": "employees/sales-employee/routines/sales-pipeline-review",
+      "licence": "MIT",
+      "contribution": "Every figure tied to the file it came from, with no estimates, rates withheld below a minimum number of cases, movement counted only when a change clears both an amount and a percentage, prior figures taken only from the prior record, and each call resting on a figure shown on the same page and never on a person.",
+      "text_reused": false,
+      "notice": "notices/markfulton-ai-employees-LICENSE.txt"
+    }
+  ]
+}

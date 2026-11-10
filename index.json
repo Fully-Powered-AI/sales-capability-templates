@@ -20,6 +20,14 @@
       "directory": "https://fullypowered.ai/capabilities/objection-answers-and-sales-one-pager/"
     },
     {
+      "id": "prospect-list-by-role-and-firm-type",
+      "name": "Prospect list by role and firm type",
+      "version": "0.1.0",
+      "summary": "Before anyone writes a first note, you know which kinds of firm and which roles in them deserve your next conversations. Every firm is tested against your own criteria first and carries a sourced reason, a grade and the questions only a conversation can answer. Nobody is contacted.",
+      "path": "prospect-list-by-role-and-firm-type/",
+      "directory": "https://fullypowered.ai/capabilities/prospect-list-by-role-and-firm-type/"
+    },
+    {
       "id": "sales-call-preparation-brief",
       "name": "Sales call preparation brief",
       "version": "0.1.0",
@@ -28,12 +36,36 @@
       "directory": "https://fullypowered.ai/capabilities/sales-call-preparation-brief/"
     },
     {
+      "id": "sales-pipeline-review",
+      "name": "Sales pipeline review",
+      "version": "0.1.0",
+      "summary": "Each week your sales lead sees the whole open pipeline on one page: value and age by stage, what moved since last week, the deals at risk and coverage against your target. Every figure traces to your export, and the forecast number is left for a person to commit.",
+      "path": "sales-pipeline-review/",
+      "directory": "https://fullypowered.ai/capabilities/sales-pipeline-review/"
+    },
+    {
       "id": "sales-proposal-preparation",
       "name": "Sales proposal preparation",
       "version": "0.1.0",
       "summary": "Your account executive answers an RFP in minutes, not weeks, with a proposal draft where every claim traces to approved company information and every gap is already a question for the right person.",
       "path": "sales-proposal-preparation/",
       "directory": "https://fullypowered.ai/capabilities/sales-proposal-preparation/"
+    },
+    {
+      "id": "stalled-deal-review",
+      "name": "Stalled-deal review",
+      "version": "0.1.0",
+      "summary": "Your sales lead sees, from the record alone, which open deals have stopped moving, what each one's stage still lacks and whose move it is, and where every recent no ended and why. Nothing in your sales system is changed; corrections are proposed for a person to make.",
+      "path": "stalled-deal-review/",
+      "directory": "https://fullypowered.ai/capabilities/stalled-deal-review/"
+    },
+    {
+      "id": "win-loss-review",
+      "name": "Win-loss review",
+      "version": "0.1.0",
+      "summary": "Once a quarter your sales lead sees, from the deals you closed, where the losses ended, which kinds of deal you win and lose, what the largest deals show, and which findings rest on enough deals to act on. Actions are proposed in proportion to the evidence, and nothing in your sales system is changed.",
+      "path": "win-loss-review/",
+      "directory": "https://fullypowered.ai/capabilities/win-loss-review/"
     }
   ]
 }

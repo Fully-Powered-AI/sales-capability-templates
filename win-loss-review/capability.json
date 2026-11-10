@@ -1,0 +1,67 @@
+{
+  "id": "win-loss-review",
+  "name": "Win-loss review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Once a quarter your sales lead sees, from the deals you closed, where the losses ended, which kinds of deal you win and lose, what the largest deals show, and which findings rest on enough deals to act on. Actions are proposed in proportion to the evidence, and nothing in your sales system is changed.",
+  "directory": "https://fullypowered.ai/capabilities/win-loss-review/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/analytics-and-reporting"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/manufacturing",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/established-businesses"
+  ],
+  "related": [
+    "stalled-deal-review",
+    "objection-answers-and-sales-one-pager",
+    "sales-call-preparation-brief"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own method for reading a quarter of closed deals: three tests that mark a finding firm or thin, contested deals left out of firm findings, actions in proportion to the evidence, win rates withheld for small groups, last quarter's actions checked against the record, and a coverage line."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "sales/skills/win-loss-review",
+      "licence": "Apache-2.0",
+      "contribution": "The quantitative shape of the review: win rates for each way of slicing the deals, with how many deals sit behind each, the stage where losses ended, median cycle length and amount for wins against losses, reading the notes of the five largest wins and losses for what the wins have in common, actions that include starting to record a field the review could not count, and handing record corrections to a person.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "GTMify/aigtm",
+      "commit": "1cb992d7589f85b8ffa07f13f2c60f2028ba39b4",
+      "path": "skills/win-loss-analyzer",
+      "licence": "MIT",
+      "contribution": "One primary reason per lost deal, from a starting list of common loss reasons that our default list adapts; flagging a stated reason the evidence does not support, counting the competitors that appear in losses, warning that a handful of deals proves little, not reading a shared trait as its cause, giving every recommended action an owner and the pattern behind it, and keeping individual salespeople out of the analysis.",
+      "text_reused": false,
+      "notice": "notices/GTMify-aigtm-LICENSE.txt"
+    }
+  ]
+}

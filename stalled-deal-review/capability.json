@@ -1,0 +1,78 @@
+{
+  "id": "stalled-deal-review",
+  "name": "Stalled-deal review",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Your sales lead sees, from the record alone, which open deals have stopped moving, what each one's stage still lacks and whose move it is, and where every recent no ended and why. Nothing in your sales system is changed; corrections are proposed for a person to make.",
+  "directory": "https://fullypowered.ai/capabilities/stalled-deal-review/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/software-technology",
+    "industries/manufacturing",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "sales-call-preparation-brief",
+    "objection-answers-and-sales-one-pager",
+    "sales-proposal-preparation",
+    "sales-pipeline-review",
+    "win-loss-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own working guide for keeping a record of sales conversations: a coverage line that tells 'could not look' from 'looked and found none', one question per stall for a named role, each reason quoted in the buyer's own words from a dated note (a habit of the guide, not taken from another package), and a person who makes every change."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/revops",
+      "licence": "MIT",
+      "contribution": "The method our working guide rewrote: sales stages that each have an entry, an exit and an owner; flagging a deal that has stayed in one stage longer than it should; and recording a loss reason on every closed-lost deal.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/knowledge-work-plugins",
+      "commit": "02ffa99ff00ce4d3046ccebabb8357cb39f3ab06",
+      "path": "sales/skills/deal-advance-gap",
+      "licence": "Apache-2.0",
+      "contribution": "Two methods from this repository at the same commit and under the same licence notice. From sales/skills/deal-advance-gap: reading a deal that is not advancing against the exit of the stage it is in, naming only what is missing, with the evidence for each gap, and saying whether the next move is the buyer's, the seller's or another colleague's inside the company. From sales/skills/win-loss-review: recording the stage each lost deal ended at.",
+      "text_reused": false,
+      "notice": "notices/anthropics-knowledge-work-plugins-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "CALLE-AI/awesome-phone-call-agents",
+      "commit": "14ab8d21081ead9063a6af5f86804bc9cdafb626",
+      "path": "skills/call-agent-commitment-tracker",
+      "licence": "MIT",
+      "contribution": "Two methods from this repository at the same commit and under the same licence notice. From skills/call-agent-commitment-tracker: sorting a promise by whether it carries a deadline, carries none, or depends on the other party acting first, and never counting what the other party said they would do as the organization's own promise. From skills/call-post-summary-faithfulness-auditor: checking each statement in a summary against its source before anyone acts on it, treating a statement the source does not show as unverified rather than false, and holding a conflict for a person instead of resolving it silently.",
+      "text_reused": false,
+      "notice": "notices/CALLE-AI-awesome-phone-call-agents-LICENSE.txt"
+    }
+  ]
+}

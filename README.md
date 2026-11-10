@@ -2,14 +2,18 @@
 
 Answer in minutes what used to take weeks. These capability templates take the preparation that slows a sales team down and give an AI assistant a precise way to do it, with every claim traced to evidence and a person deciding what goes to the buyer.
 
-This repository holds 4 capability templates for sales teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 8 capability templates for sales teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
 ## The capabilities
 
 - **[Cold outreach sequence drafting](cold-outreach-sequence-drafting/)**: Your outreach reads like you wrote it on your best day: a first note and its follow-ups, drafted in your own voice, where every line about the prospect traces to a dated fact and every line about your company traces to facts you supplied. You read it, edit it and send it yourself.
 - **[Objection answers and sales one-pager](objection-answers-and-sales-one-pager/)**: Walk into the call with an answer for every objection you expect, each with its honest limit and the proof behind it, and one page to leave behind. Everything is built from the facts you supply, so nothing on the page is a claim you cannot stand behind.
+- **[Prospect list by role and firm type](prospect-list-by-role-and-firm-type/)**: Before anyone writes a first note, you know which kinds of firm and which roles in them deserve your next conversations. Every firm is tested against your own criteria first and carries a sourced reason, a grade and the questions only a conversation can answer. Nobody is contacted.
 - **[Sales call preparation brief](sales-call-preparation-brief/)**: Your salesperson, partner or account manager walks into every meeting with a brief they can read in five minutes: who will be there, what has been said and promised so far, what is still open, and a plan for the call. Every line traces to your own notes or a public page, and anything inferred is labelled.
+- **[Sales pipeline review](sales-pipeline-review/)**: Each week your sales lead sees the whole open pipeline on one page: value and age by stage, what moved since last week, the deals at risk and coverage against your target. Every figure traces to your export, and the forecast number is left for a person to commit.
 - **[Sales proposal preparation](sales-proposal-preparation/)**: Your account executive answers an RFP in minutes, not weeks, with a proposal draft where every claim traces to approved company information and every gap is already a question for the right person.
+- **[Stalled-deal review](stalled-deal-review/)**: Your sales lead sees, from the record alone, which open deals have stopped moving, what each one's stage still lacks and whose move it is, and where every recent no ended and why. Nothing in your sales system is changed; corrections are proposed for a person to make.
+- **[Win-loss review](win-loss-review/)**: Once a quarter your sales lead sees, from the deals you closed, where the losses ended, which kinds of deal you win and lose, what the largest deals show, and which findings rest on enough deals to act on. Actions are proposed in proportion to the evidence, and nothing in your sales system is changed.
 
 ## How to use one
 

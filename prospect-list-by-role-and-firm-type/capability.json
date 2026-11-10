@@ -1,0 +1,74 @@
+{
+  "id": "prospect-list-by-role-and-firm-type",
+  "name": "Prospect list by role and firm type",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Before anyone writes a first note, you know which kinds of firm and which roles in them deserve your next conversations. Every firm is tested against your own criteria first and carries a sourced reason, a grade and the questions only a conversation can answer. Nobody is contacted.",
+  "directory": "https://fullypowered.ai/capabilities/prospect-list-by-role-and-firm-type/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/advertising-and-lead-generation"
+  ],
+  "industries": [
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "cold-outreach-sequence-drafting",
+    "sales-call-preparation-brief",
+    "competitor-profile-from-public-pages"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-09",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The working guide Fully Powered AI uses to build its own prospect lists: names only from a supplied source with roles recorded instead, size counted at the firm that receives the work, headquarters kept apart from offices, the door as a way in that is not a cold approach, the early-adopter sign, a next step kept separate from the grade, and do-not-contact marks that are never removed."
+    },
+    {
+      "kind": "third-party",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "c7d7dfb6b460fc376b4b2204b78a9c9fd5ca6467",
+      "path": "skills/prospecting",
+      "licence": "MIT",
+      "contribution": "The method our own guide adapted: a target profile written as a short statement with pass-or-fail criteria before any search, a source and date on every row, confidence that is high only when two independent sources agree, a note of what to leave out when writing to a firm, duplicates removed by domain, a suppression list carried forward, published general contact routes only, and no bulk extraction, no bypassed sign-ins and no sensitive traits. From the same repository's skills/competitor-profiling: a fact the pages do not show is not observed, which is not the same as absent, the basis, with swan-gtm's rule below, for recording a criterion as not observed, with the pages checked and when.",
+      "text_reused": false,
+      "notice": "notices/coreyhaines31-marketingskills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "swan-gtm/gtm-skills",
+      "commit": "78f59eb9e48d4e1a850d38e66d2501d3347da281",
+      "path": "skills/brian-carroll/icp-fit-and-buying-readiness",
+      "licence": "MIT",
+      "contribution": "Keeping company fit apart from signs that the status quo is changing; each criterion as confirmed, disconfirmed or unknown, with an unknown turned into a question rather than a pass; each signal read as the observed fact, what it may mean, what supports or weakens it and what is still unknown; a strong signal never overriding a failed fit and fit without a signal held on watch; a condition that would change every watch or pass; the single next action for each firm; and the one-sentence test of a finished verdict.",
+      "text_reused": false,
+      "notice": "notices/swan-gtm-gtm-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "LeadMagic/gtm-skills",
+      "commit": "2b7ec0f9e7044f46e4c77b536f486303fd863e28",
+      "path": "skills/prospecting/list-building",
+      "licence": "MIT",
+      "contribution": "Testing firms against the firm-level criteria before looking at anyone who works there, keeping the firm records apart from the people records, and a quality check on the finished list before it is used.",
+      "text_reused": false,
+      "notice": "notices/LeadMagic-gtm-skills-LICENSE.txt"
+    }
+  ]
+}
