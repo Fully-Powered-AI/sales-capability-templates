@@ -1,0 +1,15 @@
+{
+  "repository": "Fully-Powered-AI/sales-capabilities",
+  "title": "Sales",
+  "term": "functions/sales",
+  "capabilities": [
+    {
+      "id": "sales-proposal-preparation",
+      "name": "Sales proposal preparation",
+      "version": "0.1.0",
+      "summary": "Your account executive answers an RFP in minutes, not weeks, with a proposal draft where every claim traces to approved company information and every gap is already a question for the right person.",
+      "path": "sales-proposal-preparation/",
+      "directory": "https://fullypowered.ai/capabilities/sales-proposal-preparation/"
+    }
+  ]
+}

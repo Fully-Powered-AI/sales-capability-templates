@@ -1,0 +1,41 @@
+{
+  "id": "sales-proposal-preparation",
+  "name": "Sales proposal preparation",
+  "kind": "capability-template",
+  "version": "0.1.0",
+  "summary": "Your account executive answers an RFP in minutes, not weeks, with a proposal draft where every claim traces to approved company information and every gap is already a question for the right person.",
+  "directory": "https://fullypowered.ai/capabilities/sales-proposal-preparation/",
+  "primary_function": "functions/sales",
+  "functions": [
+    "functions/sales",
+    "functions/customer-success-and-account-management"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/marketing-and-advertising",
+    "industries/engineering-firms"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "account-handoff",
+    "client-status-update-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-09",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": []
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own working guides."
+    }
+  ]
+}
