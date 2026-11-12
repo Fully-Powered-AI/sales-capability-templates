@@ -1,10 +1,10 @@
 {
   "id": "sales-call-preparation-brief",
   "name": "Sales call preparation brief",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Your salesperson, partner or account manager walks into every meeting with a brief they can read in five minutes: who will be there, what has been said and promised so far, what is still open, and a plan for the call. Every line traces to your own notes or a public page, and anything inferred is labelled.",
-  "directory": "https://fullypowered.ai/capabilities/sales-call-preparation-brief/",
+  "directory": "https://fullypowered.ai/workflow templates/sales-call-preparation-brief/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

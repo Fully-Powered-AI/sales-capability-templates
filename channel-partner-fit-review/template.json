@@ -1,10 +1,10 @@
 {
   "id": "channel-partner-fit-review",
   "name": "Channel partner fit review",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "When a referral, reseller or alliance partner approaches, the founder or head of partnerships gets one review: evidence the partner brings customers of its own, the type that evidence supports, a ninety-day plan with signs to go on or stop, and the commission range that still beats selling direct. A person decides.",
-  "directory": "https://fullypowered.ai/capabilities/channel-partner-fit-review/",
+  "directory": "https://fullypowered.ai/workflow templates/channel-partner-fit-review/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

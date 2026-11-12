@@ -5,7 +5,7 @@
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of the second run of the capability template on its own invented example. The company, the deals, the people and the dates are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of the second run of the workflow template on its own invented example. The company, the deals, the people and the dates are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 2026-11-09: after the run recorded here, step 1 of the instruction block was edited so that only an open deal whose stage is not on the list goes under "Not read", as the long procedure already said; read literally, the earlier wording would have put D-107 (stage "Closed lost") under "Not read". The run followed the intended reading. The output format was not changed, and the run was not repeated.
 

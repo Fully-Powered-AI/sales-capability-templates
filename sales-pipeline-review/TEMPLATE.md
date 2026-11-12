@@ -1,6 +1,6 @@
 # Sales pipeline review
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 

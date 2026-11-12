@@ -1,6 +1,6 @@
 # Cold outreach sequence drafting: an invented example
 
-*Illustrative example with invented data.* The company, the prospect, the people, the job posting and every fact below are invented. Firm N is an invented six-person bookkeeping firm; Prospect P is an invented 45-person heating and cooling contractor. First come the inputs the founder supplied, in full, then the sequence the capability returned.
+*Illustrative example with invented data.* The company, the prospect, the people, the job posting and every fact below are invented. Firm N is an invented six-person bookkeeping firm; Prospect P is an invented 45-person heating and cooling contractor. First come the inputs the founder supplied, in full, then the sequence the workflow template returned.
 
 ## The inputs
 
@@ -182,7 +182,7 @@ Dana
 
 **Slots for Dana**
 
-- The identification line and the opt-out line her recipients' country requires. The capability does not decide what the law requires.
+- The identification line and the opt-out line her recipients' country requires. The workflow template does not decide what the law requires.
 - The mailbox each note goes from.
 - A booking route for the call, if she wants one. None was supplied, so Note 3 asks for a reply.
 - The checklist itself, sent only after a yes.

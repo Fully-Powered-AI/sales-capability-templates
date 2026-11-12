@@ -1,6 +1,6 @@
 # Stalled-deal review: an invented example
 
-*Illustrative example with invented data.* The company, its accounts, its people, the deals, the dates and the amounts below are all invented. The seller is an invented 35-person company that sells maintenance-planning software to manufacturers. Its sales team is a sales lead, two account executives and a solutions engineer. First come the inputs the sales lead supplied, in full except the previous review, of which only the part the capability reads is shown; then the review the capability returned.
+*Illustrative example with invented data.* The company, its accounts, its people, the deals, the dates and the amounts below are all invented. The seller is an invented 35-person company that sells maintenance-planning software to manufacturers. Its sales team is a sales lead, two account executives and a solutions engineer. First come the inputs the sales lead supplied, in full except the previous review, of which only the part the template reads is shown; then the review the workflow template returned.
 
 ## The inputs
 
@@ -65,7 +65,7 @@ D-109, 27 October 2026 (account executive): We declined. They need a
 mobile app for floor staff, which we don't offer.
 ```
 
-### 4. The previous review (an excerpt: its first line and its "Open at this review" line, the only part the capability reads)
+### 4. The previous review (an excerpt: its first line and its "Open at this review" line, the only part the workflow template reads)
 
 ```
 STALLED-DEAL REVIEW: Monday 26 October 2026

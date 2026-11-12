@@ -2,7 +2,7 @@
 
 Each week your sales lead sees the whole open pipeline on one page: value and age by stage, what moved since last week, the deals at risk and coverage against your target. Every figure traces to your export, and the forecast number is left for a person to commit.
 
-*Capability template · Sales · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/sales-pipeline-review/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/sales-pipeline-review/)*
 
 ## The outcome
 
@@ -52,7 +52,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/): contract bids pile up near quarter end, and coverage against the target says whether there is enough in play.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the pipeline has outgrown the sales lead's memory and needs one page that everyone reads the same way.
 
-It sits beside [Stalled-deal review](https://fullypowered.ai/capabilities/stalled-deal-review/), which takes the deals flagged here one at a time and reads each against its stage, and [Sales call preparation brief](https://fullypowered.ai/capabilities/sales-call-preparation-brief/), which prepares the call where an owner's question gets answered.
+It sits beside [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/), which takes the deals flagged here one at a time and reads each against its stage, and [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which prepares the call where an owner's question gets answered.
 
 ## What has to change for your company
 
@@ -65,9 +65,9 @@ It sits beside [Stalled-deal review](https://fullypowered.ai/capabilities/stalle
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run, which replaced an earlier one from the same day after the instructions were revised, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run, which replaced an earlier one from the same day after the instructions were revised, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past weeks your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose headers differ, a deal with no amount, a deal that disappears between weeks, a close date pushed out, too few closed deals for a rate. The sales lead checks every figure against the exports before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on past weeks your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose headers differ, a deal with no amount, a deal that disappears between weeks, a close date pushed out, too few closed deals for a rate. The sales lead checks every figure against the exports before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -78,11 +78,11 @@ Testing in your environment means running it on past weeks your sales lead remem
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -92,7 +92,7 @@ Testing in your environment means running it on past weeks your sales lead remem
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Stalled-deal review](../stalled-deal-review/)
 - [Sales call preparation brief](../sales-call-preparation-brief/)
@@ -100,4 +100,4 @@ Testing in your environment means running it on past weeks your sales lead remem
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

@@ -1,6 +1,6 @@
 # Bid or no-bid and RFP response plan
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it the day a request for proposals, a tender, a request for quotation or a s
 
 Do not use it:
 
-- to write the response itself. The answers are written by the section owners; the sales proposal preparation capability helps with that once the plan exists;
+- to write the response itself. The answers are written by the section owners; the sales proposal preparation workflow template helps with that once the plan exists;
 - to decide whether to bid. The decision-maker named in the bid criteria decides;
 - to price the work, or to review, change or accept the buyer's terms. Those belong to the pricing owner and the terms reviewer;
 - for a buyer conversation with no written request. There is nothing to check the evidence against.

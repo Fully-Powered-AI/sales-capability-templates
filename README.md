@@ -1,10 +1,10 @@
-# Fully Powered Capability Templates: Sales
+# Fully Powered Workflow Templates: Sales
 
-Answer in minutes what used to take weeks. These capability templates take the preparation that slows a sales team down and give an AI assistant a precise way to do it, with every claim traced to evidence and a person deciding what goes to the buyer.
+Answer in minutes what used to take weeks. These workflow templates take the preparation that slows a sales team down and give an AI assistant a precise way to do it, with every claim traced to evidence and a person deciding what goes to the buyer.
 
-This repository holds 14 capability templates for sales teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+This repository holds 14 workflow templates for sales teams. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
 
-## The capabilities
+## The workflow templates
 
 - **[Bid or no-bid and RFP response plan](bid-or-no-bid-and-rfp-response-plan/)**: Before anyone starts on a response, your bid manager sees every requirement in the request checked against your own evidence, your bid criteria tested and the buyer questions ready. A named person decides whether to bid; then a dated plan says who does what by when.
 - **[Channel partner fit review](channel-partner-fit-review/)**: When a referral, reseller or alliance partner approaches, the founder or head of partnerships gets one review: evidence the partner brings customers of its own, the type that evidence supports, a ninety-day plan with signs to go on or stop, and the commission range that still beats selling direct. A person decides.
@@ -25,20 +25,22 @@ This repository holds 14 capability templates for sales teams. Each one is a sin
 
 Open a folder and start with its README. Every folder stands alone, so copy the one you want and leave the rest. The templates are written for ChatGPT, Claude, Copilot and Gemini: paste the instruction block and the output format in as custom instructions, or load the folder in a product that reads `SKILL.md` packages.
 
+To take the whole collection, press **Use this template** at the top of this page: it copies every folder into a repository in your own account, yours to change.
+
 In every template a person starts the work, supplies the inputs and decides. The template prepares and checks. Anything that sends, posts, pays or changes a record waits for a person to approve it.
 
 ## What SKILL.md is
 
-Each folder holds a file named `SKILL.md`. It is the technical file: the same instructions and output format as the template, in the packaged form that AI products which load instructions from a folder read. It is generated from `TEMPLATE.md`, so the two always agree. The capability template is the whole folder; `SKILL.md` is one way of loading it. If your AI product does not read that format, use `TEMPLATE.md`.
+Each folder holds a file named `SKILL.md`. It is the technical file: the same instructions and output format as the template, in the packaged form that AI products which load instructions from a folder read. It is generated from `TEMPLATE.md`, so the two always agree. The workflow template is the whole folder; `SKILL.md` is one way of loading it. If your AI product does not read that format, use `TEMPLATE.md`.
 
 ## What "checked" means here
 
 Each folder says exactly what was checked and when: who wrote it, that its sources and rights were reviewed, the date of its editorial review, and whether it has been tried on its invented example in a named AI product. Nothing is described as tested for a client unless it was. Test a template on your own past work before your team relies on it; each one comes with acceptance tests for that.
 
-## More capabilities
+## More workflow templates
 
-The [Fully Powered Capabilities Directory](https://fullypowered.ai/capabilities/) lists every capability across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [Fully Powered Workflows Directory](https://fullypowered.ai/workflow templates/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the capability drew on. Published by [Fully Powered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [Fully Powered AI](https://fullypowered.ai/).

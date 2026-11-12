@@ -1,6 +1,6 @@
 # Sales call scorecard: an invented example
 
-*Illustrative example with invented data.* The companies, the people, the call, the words spoken and the dates below are all invented. The seller is an invented 40-person company that sells servicing and route-planning software to delivery firms. Its sales lead is coaching a newer account executive. First come the inputs the sales lead supplied, in full, then the scorecard the capability returned.
+*Illustrative example with invented data.* The companies, the people, the call, the words spoken and the dates below are all invented. The seller is an invented 40-person company that sells servicing and route-planning software to delivery firms. Its sales lead is coaching a newer account executive. First come the inputs the sales lead supplied, in full, then the scorecard the workflow template returned.
 
 ## The inputs
 

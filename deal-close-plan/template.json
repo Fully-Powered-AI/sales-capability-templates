@@ -1,10 +1,10 @@
 {
   "id": "deal-close-plan",
   "name": "Deal close plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Your account executive holds one late-stage deal on two pages: the buyer's case for buying now, counted from the buyer's own figures, and a dated plan of every step to signature with its owner on each side. The seller decides what the buyer sees; nothing reaches the sales system without approval.",
-  "directory": "https://fullypowered.ai/capabilities/deal-close-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/deal-close-plan/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales"

@@ -1,6 +1,6 @@
 # Discount request review: an invented example
 
-*Illustrative example with invented data.* The company, its customers, its people, the policy, the prices, the costs and the dates below are all invented. The seller is an invented 50-person company that sells field-service scheduling software to maintenance contractors, as a yearly subscription per user with a one-off onboarding package. Its commercial team is a managing director, a finance director, a sales lead, three account executives and a head of delivery. First come the inputs the sales lead supplied, in full; then the review the capability returned.
+*Illustrative example with invented data.* The company, its customers, its people, the policy, the prices, the costs and the dates below are all invented. The seller is an invented 50-person company that sells field-service scheduling software to maintenance contractors, as a yearly subscription per user with a one-off onboarding package. Its commercial team is a managing director, a finance director, a sales lead, three account executives and a head of delivery. First come the inputs the sales lead supplied, in full; then the review the workflow template returned.
 
 ## The inputs
 

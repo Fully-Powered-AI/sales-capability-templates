@@ -1,6 +1,6 @@
 # Deal close plan: an invented example
 
-*Illustrative example with invented data.* The companies, the people, the deal, the dates and the amounts below are all invented. The seller is an invented 40-person company that sells stock-planning software to food distributors; its people on this deal are an account executive, a solutions engineer, a sales lead and a finance director. The buyer, Account D, is an invented regional food distributor. First come the inputs the account executive supplied, in full, then the close plan the capability returned.
+*Illustrative example with invented data.* The companies, the people, the deal, the dates and the amounts below are all invented. The seller is an invented 40-person company that sells stock-planning software to food distributors; its people on this deal are an account executive, a solutions engineer, a sales lead and a finance director. The buyer, Account D, is an invented regional food distributor. First come the inputs the account executive supplied, in full, then the close plan the workflow template returned.
 
 ## The inputs
 

@@ -5,7 +5,7 @@
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-The inputs were the invented example published with this capability template. Fernhollow Dispatch, Pinewater Facilities Group and every person named are invented, and no client data was used. This is a record of one run. It is not a test in a company's own environment.
+The inputs were the invented example published with this workflow template. Fernhollow Dispatch, Pinewater Facilities Group and every person named are invented, and no client data was used. This is a record of one run. It is not a test in a company's own environment.
 
 ## Inputs used
 

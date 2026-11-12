@@ -6,7 +6,7 @@
 - **Template version:** 0.1.0
 - **Runs:** the run recorded here is the last of three made the same day. The two before it, and what each changed, are summarised at the end. The template was edited after this run and has not been run again; the changes are listed at the end.
 
-This is a record of one run. The inputs are the invented example published with this capability template: Quillhaven Fleet Care, Brambleside Provisions, Dana and every fact, figure and quotation in them are invented. No client data was used, nothing was sent, and no one was contacted. One run on an invented example shows how the instructions behave once; it is not a test in anyone's working environment.
+This is a record of one run. The inputs are the invented example published with this workflow template: Quillhaven Fleet Care, Brambleside Provisions, Dana and every fact, figure and quotation in them are invented. No client data was used, nothing was sent, and no one was contacted. One run on an invented example shows how the instructions behave once; it is not a test in anyone's working environment.
 
 ## How the run was made
 
@@ -252,6 +252,6 @@ The "What came out" section of the worked example is this output set out with he
 - The block now carries two rules that were in the procedure only: the default reader of the one-pager when none is named, and when two objections may be merged. The inputs section no longer says to ask once about a missing call detail; like the block, it says to record it in the notes and continue.
 - "Copied" is now defined, in the block, the procedure and the reviewer checklist, as agreeing with the fact sheet in figure and meaning; a row may shorten the fact. The checklist used to say word for word, which is the standard the reading above applied to rows 4, 7, 16, 18 and 23.
 - The block and the procedure now say that a promise to find something out is the salesperson's to make, and that what has to be found out is listed under open items. Answer 1 above makes such a promise, and the matching item is under the operations lead's open items.
-- A credit line in the capability's source record was reworded. No instruction changed.
+- A credit line in the workflow template's source record was reworded. No instruction changed.
 
 The same review noted one thing the observations above do not: the six notes on the inputs keep to the count the block asks for, but each is one or two full sentences, which is longer than "short lines".

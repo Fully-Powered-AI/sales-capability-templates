@@ -2,7 +2,7 @@
 
 Your sales lead sees, from the record alone, which open deals have stopped moving, what each one's stage still lacks and whose move it is, and where every recent no ended and why. Nothing in your sales system is changed; corrections are proposed for a person to make.
 
-*Capability template · Sales · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/stalled-deal-review/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/stalled-deal-review/)*
 
 ## The outcome
 
@@ -48,9 +48,9 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Engineering firms](https://fullypowered.ai/industries/engineering-firms/): proposals sit with the client's board or funding body, and the firm needs to know which ones are still alive.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): the pipeline outgrows what the sales lead can hold in their head.
 
-It sits beside [Sales call preparation brief](https://fullypowered.ai/capabilities/sales-call-preparation-brief/), which prepares the meeting where the stall's question gets asked, [Objection answers and sales one-pager](https://fullypowered.ai/capabilities/objection-answers-and-sales-one-pager/), which prepares the answer when a stalled buyer pushes back, and [Sales proposal preparation](https://fullypowered.ai/capabilities/sales-proposal-preparation/), which drafts the proposal a deal at the proposal stage is waiting on.
+It sits beside [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which prepares the meeting where the stall's question gets asked, [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/), which prepares the answer when a stalled buyer pushes back, and [Sales proposal preparation](https://fullypowered.ai/workflows/sales-proposal-preparation/), which drafts the proposal a deal at the proposal stage is waiting on.
 
-Two sales capabilities read the same record for different questions. [Sales pipeline review](https://fullypowered.ai/capabilities/sales-pipeline-review/) shows the whole open pipeline each week, its value, age and coverage; this review looks only at the deals that have stopped and asks why. [Win-loss review](https://fullypowered.ai/capabilities/win-loss-review/) reads a quarter of closed deals for patterns that hold across many of them; this review logs each recent no on its own, before anyone draws a lesson.
+Two sales workflow templates read the same record for different questions. [Sales pipeline review](https://fullypowered.ai/workflows/sales-pipeline-review/) shows the whole open pipeline each week, its value, age and coverage; this review looks only at the deals that have stopped and asks why. [Win-loss review](https://fullypowered.ai/workflows/win-loss-review/) reads a quarter of closed deals for patterns that hold across many of them; this review logs each recent no on its own, before anyone draws a lesson.
 
 ## What has to change for your company
 
@@ -62,9 +62,9 @@ Two sales capabilities read the same record for different questions. [Sales pipe
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026 in two runs, with the instructions revised between them; the record of the second run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026 in two runs, with the instructions revised between them; the record of the second run is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on past weeks your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose column names differ, a next step with no date, a buyer who said they would come back later, a lost deal with no stage, a note that contradicts the recorded reason. The sales lead checks every line against the record before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on past weeks your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: an export whose column names differ, a next step with no date, a buyer who said they would come back later, a lost deal with no stage, a note that contradicts the recorded reason. The sales lead checks every line against the record before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -75,11 +75,11 @@ Testing in your environment means running it on past weeks your sales lead remem
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -89,7 +89,7 @@ Testing in your environment means running it on past weeks your sales lead remem
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Sales call preparation brief](../sales-call-preparation-brief/)
 - [Objection answers and sales one-pager](../objection-answers-and-sales-one-pager/)
@@ -99,4 +99,4 @@ Testing in your environment means running it on past weeks your sales lead remem
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

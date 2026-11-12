@@ -1,6 +1,6 @@
 # Sales call scorecard
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -262,7 +262,7 @@ text for a performance review, decline and offer the criterion view.
 - **Calibration.** Before relying on the scorecards, have two sales leads mark the same three or four calls separately and compare them criterion by criterion. Where they differ, rewrite the `shown_when` until a third reader would agree.
 - **A talk-balance target,** if your team wants one, written as a criterion with its number.
 - **Who sees the scorecard.** Decide whether the salesperson receives it before or during the coaching conversation, and where scorecards are kept and for how long.
-- **Your own rules on recording and keeping calls.** This capability reads a transcript a person supplies; whether calls are recorded, and who may read the recordings, is your company's own policy.
+- **Your own rules on recording and keeping calls.** This workflow template reads a transcript a person supplies; whether calls are recorded, and who may read the recordings, is your company's own policy.
 - **Which files the assistant may read** in ChatGPT, Claude, Copilot or Gemini.
 
 ## Version notes

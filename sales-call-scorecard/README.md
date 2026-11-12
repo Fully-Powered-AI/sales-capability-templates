@@ -2,7 +2,7 @@
 
 After a sales call, your sales lead sees how it went against your team's own criteria, each point backed by the words actually said, where the call left the deal, and one focus for the next call. It reviews a call, never a person, and gives no score for anyone's file.
 
-*Capability template · Sales · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/sales-call-scorecard/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/sales-call-scorecard/)*
 
 ## The outcome
 
@@ -54,7 +54,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Insurance](https://fullypowered.ai/industries/insurance/): brokers and account teams talk to clients constantly, and good questions decide what gets placed.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): when new salespeople join faster than the sales lead can sit in on their calls.
 
-It sits beside [Sales call preparation brief](https://fullypowered.ai/capabilities/sales-call-preparation-brief/), which sets the goal the scorecard checks, [Stalled-deal review](https://fullypowered.ai/capabilities/stalled-deal-review/), which looks at deals that stop moving, and [Objection answers and sales one-pager](https://fullypowered.ai/capabilities/objection-answers-and-sales-one-pager/), which prepares answers for the concerns the scorecard finds.
+It sits beside [Sales call preparation brief](https://fullypowered.ai/workflows/sales-call-preparation-brief/), which sets the goal the scorecard checks, [Stalled-deal review](https://fullypowered.ai/workflows/stalled-deal-review/), which looks at deals that stop moving, and [Objection answers and sales one-pager](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/), which prepares answers for the concerns the scorecard finds.
 
 ## What has to change for your company
 
@@ -62,14 +62,14 @@ It sits beside [Sales call preparation brief](https://fullypowered.ai/capabiliti
 - **Your call types,** and which criteria belong to each.
 - **Calibration.** Have two sales leads mark the same few calls separately, compare their marks criterion by criterion, and tighten the wording wherever they disagree.
 - **Who sees it.** Decide when the salesperson receives the scorecard and where scorecards are kept.
-- **Your recording policy.** The capability reads a transcript you supply; whether calls are recorded and who may read them is your company's own rule.
+- **Your recording policy.** The workflow template reads a transcript you supply; whether calls are recorded and who may read them is your company's own rule.
 - **Your platform.** The instructions are written to be pasted into ChatGPT, Claude, Copilot or Gemini. It works from files you supply and needs no connection to your call recorder or sales system.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026; the record of that run is published with it, and lists the clarifications made afterward that have not been run again. That run did not reach the stop conditions or the path for notes without a transcript. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried once on its invented example in Claude on 9 November 2026; the record of that run is published with it, and lists the clarifications made afterward that have not been run again. That run did not reach the stop conditions or the path for notes without a transcript. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a few past calls your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: a transcript with generic speaker labels, an answer lost in an inaudible stretch, notes that say nothing about the next step, a salesperson who supplies the buyer's cost, a request for a score out of ten. The sales lead checks every quotation against the call before anyone relies on the scorecard. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on a few past calls your sales lead remembers well, plus hard cases written in advance, each with its expected behavior: a transcript with generic speaker labels, an answer lost in an inaudible stretch, notes that say nothing about the next step, a salesperson who supplies the buyer's cost, a request for a score out of ten. The sales lead checks every quotation against the call before anyone relies on the scorecard. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -80,11 +80,11 @@ Testing in your environment means running it on a few past calls your sales lead
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -94,7 +94,7 @@ Testing in your environment means running it on a few past calls your sales lead
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Sales call preparation brief](../sales-call-preparation-brief/)
 - [Stalled-deal review](../stalled-deal-review/)
@@ -102,4 +102,4 @@ Testing in your environment means running it on a few past calls your sales lead
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

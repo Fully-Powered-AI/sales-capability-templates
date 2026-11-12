@@ -5,7 +5,7 @@
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the capability template on its own invented example. The companies, deals, pages and prices are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own invented example. The companies, deals, pages and prices are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example. An earlier run the same day, by a model that had not written the template, showed where the instructions left room to guess and where the published example broke the template's own rules. The template and the example were then revised, and the run recorded here was made on the revised template. It was made by the model that made those revisions, which had already read the published example and the earlier run. It is therefore not an independent check: it shows that the revised instructions can be followed to a card that keeps the rules, not that a fresh reader would produce one. What the earlier run found, and what was changed, is at the end.
 

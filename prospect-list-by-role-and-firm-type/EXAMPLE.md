@@ -1,6 +1,6 @@
 # Prospect list by role and firm type: an invented example
 
-*Illustrative example with invented data.* Every company, person, web address, posting and figure below is invented. The web addresses use the reserved `.example` ending, which belongs to no one. Firm K is an invented three-person operations consultancy; Alex is its founder. First come the inputs Alex supplied, in full, then the list the capability returned.
+*Illustrative example with invented data.* Every company, person, web address, posting and figure below is invented. The web addresses use the reserved `.example` ending, which belongs to no one. Firm K is an invented three-person operations consultancy; Alex is its founder. First come the inputs Alex supplied, in full, then the list the workflow template returned.
 
 ## The inputs
 

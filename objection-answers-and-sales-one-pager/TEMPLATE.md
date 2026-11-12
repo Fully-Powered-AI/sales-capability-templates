@@ -1,6 +1,6 @@
 # Objection answers and sales one-pager
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ Do not use it when:
 
 - there is no fact sheet and nobody can supply one. Answers written without facts are guesses;
 - the buyer has asked for a written proposal or sent a formal request. Use Sales proposal preparation;
-- what is wanted is the whole meeting prepared: who attends, what has been promised, what is still open and a plan for the call. Use Sales call preparation brief. It lists the objections raised; this capability writes the answers to them and the page to leave behind, and the two can be run for the same call;
+- what is wanted is the whole meeting prepared: who attends, what has been promised, what is still open and a plan for the call. Use Sales call preparation brief. It lists the objections raised; this workflow template writes the answers to them and the page to leave behind, and the two can be run for the same call;
 - the request is for a reusable guide to one competitor, a slide deck, a demonstration script or cold outreach. Those are different work;
 - the objection is about the terms of an agreement, liability or a regulatory duty. That goes to the person who owns those questions.
 

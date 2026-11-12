@@ -1,10 +1,10 @@
 {
   "id": "bid-or-no-bid-and-rfp-response-plan",
   "name": "Bid or no-bid and RFP response plan",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Before anyone starts on a response, your bid manager sees every requirement in the request checked against your own evidence, your bid criteria tested and the buyer questions ready. A named person decides whether to bid; then a dated plan says who does what by when.",
-  "directory": "https://fullypowered.ai/capabilities/bid-or-no-bid-and-rfp-response-plan/",
+  "directory": "https://fullypowered.ai/workflow templates/bid-or-no-bid-and-rfp-response-plan/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

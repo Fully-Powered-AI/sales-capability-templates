@@ -1,6 +1,6 @@
 # Sales pipeline review: an invented example
 
-*Illustrative example with invented data.* The company, its accounts, its people, the deals, the dates and the amounts below are all invented. The seller is an invented 30-person company that designs, installs and services warehouse racking and conveyor systems. Its sales team is a sales lead and two account managers, and the managing director commits the quarterly forecast. First come the inputs the sales lead supplied, in full, then the review the capability returned.
+*Illustrative example with invented data.* The company, its accounts, its people, the deals, the dates and the amounts below are all invented. The seller is an invented 30-person company that designs, installs and services warehouse racking and conveyor systems. Its sales team is a sales lead and two account managers, and the managing director commits the quarterly forecast. First come the inputs the sales lead supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 

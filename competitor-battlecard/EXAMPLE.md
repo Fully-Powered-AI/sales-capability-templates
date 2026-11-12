@@ -1,6 +1,6 @@
 # Competitor battlecard: an invented example
 
-*Illustrative example with invented data.* The companies, the deals, the people, the pages, the dates and the prices below are all invented, and the web addresses use the reserved `.example` domain. Company Z is an invented 30-person company that sells time-tracking, budgeting and invoicing software to architecture and engineering practices. Competitor A is an invented competitor. First come the inputs the sales lead supplied, in full, then the card the capability returned.
+*Illustrative example with invented data.* The companies, the deals, the people, the pages, the dates and the prices below are all invented, and the web addresses use the reserved `.example` domain. Company Z is an invented 30-person company that sells time-tracking, budgeting and invoicing software to architecture and engineering practices. Competitor A is an invented competitor. First come the inputs the sales lead supplied, in full, then the card the workflow template returned.
 
 ## The inputs
 

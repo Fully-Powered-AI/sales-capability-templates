@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This was one run of the capability template on its own invented example. The inputs are the invented ones in [the example](example.md); no client data was used. The run was made by an AI assistant that did not write the template. It was given the template's instruction block and output format and the example's five inputs (deal facts, deal record row, quote, buyer notes, approval steps), and it did not look at the example's output until its own was finished. Nothing was sent, shared or recorded. This is a record of one run, not a test in a client environment.
+This was one run of the workflow template on its own invented example. The inputs are the invented ones in [the example](example.md); no client data was used. The run was made by an AI assistant that did not write the template. It was given the template's instruction block and output format and the example's five inputs (deal facts, deal record row, quote, buyer notes, approval steps), and it did not look at the example's output until its own was finished. Nothing was sent, shared or recorded. This is a record of one run, not a test in a client environment.
 
 ## What came out
 
@@ -94,7 +94,7 @@ Draft for the account executive. Nothing has been sent or shared, and no record 
   - The template's customize list asks for "[your default step length]" but it was never used here, because every step had a stated length.
 - **Anything the template told it to stop for:** none.
 - **Facts in the outputs that are not in the inputs.** Neither output adds a fact. Both state derived values (weekdays, 31 March 2027 as the end of March, the 42-day count, $9,000 and $108,000). Both name step wording of their own, such as "CFO reviews the numbers and decides the budget", which the buyer's email implies but does not say in those words.
-- **Shortcomings of the capability seen in this run:** the output is long and has many moving parts, so a person must check every date; the template says so itself ("Check every date and every sum"). One run on one example shows it can follow the format; it does not show it works on a real deal or in other AI products.
+- **Shortcomings of the workflow template seen in this run:** the output is long and has many moving parts, so a person must check every date; the template says so itself ("Check every date and every sum"). One run on one example shows it can follow the format; it does not show it works on a real deal or in other AI products.
 
 ## Changes made after this run
 

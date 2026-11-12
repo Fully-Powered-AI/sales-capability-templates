@@ -5,7 +5,7 @@
 - **Date:** 2026-11-09
 - **Template version:** 0.1.0
 
-This is a record of one run of the capability template on its own invented example. The company, its accounts, its competitors, the deals, the dates and the amounts are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own invented example. The company, its accounts, its competitors, the deals, the dates and the amounts are invented, and no client data was used. It shows what the template produced once, on one set of inputs. It is not a test in any company's environment.
 
 This is the second run on the same example. An earlier run the same day, by a different model, showed that two rules at the heart of the template could be read two ways; steps 9 and 10 of the procedure and of the pasted instructions were rewritten, the example's findings were redone on the new rules, and the run recorded here was made on the revised instructions. What the earlier run found, and what was changed, is at the end.
 

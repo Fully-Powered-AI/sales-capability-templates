@@ -1,10 +1,10 @@
 {
   "id": "sales-pipeline-review",
   "name": "Sales pipeline review",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Each week your sales lead sees the whole open pipeline on one page: value and age by stage, what moved since last week, the deals at risk and coverage against your target. Every figure traces to your export, and the forecast number is left for a person to commit.",
-  "directory": "https://fullypowered.ai/capabilities/sales-pipeline-review/",
+  "directory": "https://fullypowered.ai/workflow templates/sales-pipeline-review/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

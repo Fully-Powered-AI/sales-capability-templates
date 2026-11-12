@@ -1,6 +1,6 @@
 # Competitor battlecard
 
-Capability template, version 0.1.0.
+Workflow template, version 0.1.0.
 
 ## Purpose
 
@@ -12,7 +12,7 @@ Use it when a competitor keeps appearing in deals and the salespeople need the s
 
 Do not use it:
 
-- to research a competitor from scratch. A profile of the competitor built from its public pages, or saved pages with their dates, comes first; this capability turns that evidence into a card a salesperson can use;
+- to research a competitor from scratch. A profile of the competitor built from its public pages, or saved pages with their dates, comes first; this workflow template turns that evidence into a card a salesperson can use;
 - to prepare one particular call. Answers for the objections one buyer has raised, and a page to leave behind, are separate work for that call;
 - for a public comparison page, an advertisement or anything a buyer receives in writing. The card is internal; any line that goes public is checked against the live page and approved separately;
 - to say anything about a competitor's finances, staff, lawsuits or security record. Those stay off the card whatever the notes say;

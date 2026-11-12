@@ -2,7 +2,7 @@
 
 Your outreach reads like you wrote it on your best day: a first note and its follow-ups, drafted in your own voice, where every line about the prospect traces to a dated fact and every line about your company traces to facts you supplied. You read it, edit it and send it yourself.
 
-*Capability template · Sales · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/cold-outreach-sequence-drafting/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)*
 
 ## The outcome
 
@@ -50,14 +50,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - **Your facts page.** Write it once and keep it current: what you do, the proof you can stand behind, and what is off limits.
 - **Your permission rule.** Which clients may be named, and who says so.
 - **Your ask and your settings.** The action you want, the number of notes and the spacing.
-- **Your sending rules.** Who sends, from which mailbox, and the identification and opt-out lines your recipients' countries require. You supply those lines; the capability leaves the slots.
+- **Your sending rules.** Who sends, from which mailbox, and the identification and opt-out lines your recipients' countries require. You supply those lines; the workflow template leaves the slots.
 - **Your platform.** It is written to run in ChatGPT, Claude, Copilot or Gemini. Decide which files the assistant may read for this work.
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template from the guide it uses for its own outreach. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, once on the first draft of the instructions and once after they were revised, and the record of the second run, with the findings of the first, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template from the guide it uses for its own outreach. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, once on the first draft of the instructions and once after they were revised, and the record of the second run, with the findings of the first, is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on prospects you know well, plus hard cases written in advance, each with its expected behavior: a prospect with no usable facts, a request to add a result you cannot support, a client named without permission. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on prospects you know well, plus hard cases written in advance, each with its expected behavior: a prospect with no usable facts, a request to add a result you cannot support, a client named without permission. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -68,11 +68,11 @@ Testing in your environment means running it on prospects you know well, plus ha
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -82,11 +82,11 @@ Testing in your environment means running it on prospects you know well, plus ha
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
 - [Sales proposal preparation](../sales-proposal-preparation/)
-- [Account handoff](https://fullypowered.ai/capabilities/account-handoff/)
+- [Account handoff](https://fullypowered.ai/workflow templates/account-handoff/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

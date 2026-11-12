@@ -1,6 +1,6 @@
 # Channel partner fit review: an invented example
 
-*Illustrative example with invented data.* The company, the partner, the customers, the people, the figures and the dates below are all invented. The seller is an invented 30-person company that sells inspection-scheduling software to property managers as a yearly subscription. A building-services contractor, called Partner A here, has asked to resell it. The head of partnerships ran the review for the founder. First come the inputs the head of partnerships supplied, in full; then the review the capability returned.
+*Illustrative example with invented data.* The company, the partner, the customers, the people, the figures and the dates below are all invented. The seller is an invented 30-person company that sells inspection-scheduling software to property managers as a yearly subscription. A building-services contractor, called Partner A here, has asked to resell it. The head of partnerships ran the review for the founder. First come the inputs the head of partnerships supplied, in full; then the review the workflow template returned.
 
 ## The inputs
 

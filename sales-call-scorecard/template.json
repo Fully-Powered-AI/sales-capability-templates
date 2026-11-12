@@ -1,10 +1,10 @@
 {
   "id": "sales-call-scorecard",
   "name": "Sales call scorecard",
-  "kind": "capability-template",
+  "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "After a sales call, your sales lead sees how it went against your team's own criteria, each point backed by the words actually said, where the call left the deal, and one focus for the next call. It reviews a call, never a person, and gives no score for anyone's file.",
-  "directory": "https://fullypowered.ai/capabilities/sales-call-scorecard/",
+  "directory": "https://fullypowered.ai/workflow templates/sales-call-scorecard/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

@@ -2,7 +2,7 @@
 
 When a referral, reseller or alliance partner approaches, the founder or head of partnerships gets one review: evidence the partner brings customers of its own, the type that evidence supports, a ninety-day plan with signs to go on or stop, and the commission range that still beats selling direct. A person decides.
 
-*Capability template · Sales · version 0.1.0 · [Capabilities Directory](https://fullypowered.ai/capabilities/channel-partner-fit-review/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/channel-partner-fit-review/)*
 
 ## The outcome
 
@@ -57,7 +57,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [New business lines](https://fullypowered.ai/situations/new-business-lines/): a partner can be the fastest way into a market you do not yet reach.
 - [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/): a weak first partnership can tie up a small team for months, and a strong one can carry its growth.
 
-It sits beside [Referral programme design](https://fullypowered.ai/capabilities/referral-programme-design/), which turns recommendations from your own customers into a habit, [Prospect list by role and firm type](https://fullypowered.ai/capabilities/prospect-list-by-role-and-firm-type/), which finds the firms you approach yourself, and [Discount request review](https://fullypowered.ai/capabilities/discount-request-review/), which checks a price below list against your own policy.
+It sits beside [Referral programme design](https://fullypowered.ai/workflows/referral-programme-design/), which turns recommendations from your own customers into a habit, [Prospect list by role and firm type](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/), which finds the firms you approach yourself, and [Discount request review](https://fullypowered.ai/workflows/discount-request-review/), which checks a price below list against your own policy.
 
 ## What has to change for your company
 
@@ -70,9 +70,9 @@ It sits beside [Referral programme design](https://fullypowered.ai/capabilities/
 
 ## What has been checked
 
-Fully Powered AI wrote this capability template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 by a model that did not write it. After an independent review the same day, the example was corrected so that its referral figures follow the template's own rule for marketing money, the template was made more exact about rounding, how sellers and a customer's market are confirmed, and the order of the questions, and it was tried again on the example. That second run was made by the model that wrote the revision, so it is not independent. A second independent review that day found eight minor points; the template was made exact on how to record a customer who could not be reached, a type the organization does not offer, a written commitment from one person and the partner's named contact, and it was tried a third time on the example by the model that made those changes, so that run is not independent either. The record of the third run, with what the earlier runs found and what was changed after each, is published with the template. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 by a model that did not write it. After an independent review the same day, the example was corrected so that its referral figures follow the template's own rule for marketing money, the template was made more exact about rounding, how sellers and a customer's market are confirmed, and the order of the questions, and it was tried again on the example. That second run was made by the model that wrote the revision, so it is not independent. A second independent review that day found eight minor points; the template was made exact on how to record a customer who could not be reached, a type the organization does not offer, a written commitment from one person and the partner's named contact, and it was tried a third time on the example by the model that made those changes, so that run is not independent either. The record of the third run, with what the earlier runs found and what was changed after each, is published with the template. It has not yet been tested in a client environment, or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past approaches your founder remembers well, plus hard cases written in advance, each with its expected behavior: a partner that names customers you already have, a claim nobody has confirmed, an ask that sits above the range, a partner that gives no expected volume, agreement terms tucked into the application. Finance checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/capabilities/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
+Testing in your environment means running it on two or three past approaches your founder remembers well, plus hard cases written in advance, each with its expected behavior: a partner that names customers you already have, a claim nobody has confirmed, an ask that sits above the range, a partner that gives no expected volume, agreement terms tucked into the application. Finance checks every figure before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record.
 
 - Written by Fully Powered AI.
 - Sources and rights reviewed.
@@ -83,11 +83,11 @@ Testing in your environment means running it on two or three past approaches you
 
 ## What is in this folder
 
-- [TEMPLATE.md](TEMPLATE.md): the complete capability template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
+- [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
 - [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
-- [SOURCES.md](SOURCES.md): what the capability drew on, with licences.
+- [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.
 
 ## Start using it
@@ -97,12 +97,12 @@ Testing in your environment means running it on two or three past approaches you
 3. Give your AI assistant the instruction block and the output format from the template, with your own limits in place of the ones the instructions leave open in square brackets. Paste them in as custom instructions in ChatGPT, Claude, Copilot or Gemini, or copy this whole folder into a product that loads `SKILL.md` packages. This folder stands alone; you do not need the rest of the repository.
 4. Run it on past work first, using the reviewer checklist and acceptance tests in the template, before anyone relies on it.
 
-## Related capabilities
+## Related workflow templates
 
-- [Referral programme design](https://fullypowered.ai/capabilities/referral-programme-design/)
+- [Referral programme design](https://fullypowered.ai/workflow templates/referral-programme-design/)
 - [Prospect list by role and firm type](../prospect-list-by-role-and-firm-type/)
 - [Discount request review](../discount-request-review/)
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts capabilities to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).

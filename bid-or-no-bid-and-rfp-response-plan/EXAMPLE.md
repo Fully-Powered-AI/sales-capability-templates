@@ -1,6 +1,6 @@
 # Bid or no-bid and RFP response plan: an invented example
 
-*Illustrative example with invented data.* The company, the school district, the people, the request, the dates and the amounts below are all invented. Alder & Finch Mechanical is an invented 40-person heating and air-conditioning service contractor. Its bid manager received an invented request for proposals from an invented public school district. First come the inputs for part A, in full, and the decision pack the capability returned. Then come the extra inputs for part B, supplied the next day after the managing director had decided, and the response plan the capability returned.
+*Illustrative example with invented data.* The company, the school district, the people, the request, the dates and the amounts below are all invented. Alder & Finch Mechanical is an invented 40-person heating and air-conditioning service contractor. Its bid manager received an invented request for proposals from an invented public school district. First come the inputs for part A, in full, and the decision pack the workflow template returned. Then come the extra inputs for part B, supplied the next day after the managing director had decided, and the response plan the workflow template returned.
 
 ## Part A: the inputs
 

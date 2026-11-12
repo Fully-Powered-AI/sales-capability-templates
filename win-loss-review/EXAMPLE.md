@@ -1,6 +1,6 @@
 # Win-loss review: an invented example
 
-*Illustrative example with invented data.* The company, its accounts, its competitors, its people, the deals, the dates and the amounts below are all invented. The seller is an invented 45-person company that designs and installs pallet racking and shelving for warehouses. Its sales team is a sales lead, three account executives and a sales coordinator who keeps the deal record. First come the inputs the sales lead supplied, in full, then the review the capability returned.
+*Illustrative example with invented data.* The company, its accounts, its competitors, its people, the deals, the dates and the amounts below are all invented. The seller is an invented 45-person company that designs and installs pallet racking and shelving for warehouses. Its sales team is a sales lead, three account executives and a sales coordinator who keeps the deal record. First come the inputs the sales lead supplied, in full, then the review the workflow template returned.
 
 ## The inputs
 
@@ -98,7 +98,7 @@ Q-324, 29 September 2026 (account executive): The warehouse manager
 joined the site survey and asked for two changes to the layout.
 ```
 
-### 4. The previous review (the part the capability reads)
+### 4. The previous review (the part the workflow template reads)
 
 ```
 WIN-LOSS REVIEW: 1 April 2026 to 30 June 2026 (reviewed 6 July 2026)
