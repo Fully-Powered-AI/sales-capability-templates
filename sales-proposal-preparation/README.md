@@ -2,7 +2,7 @@
 
 Your account executive answers an RFP in minutes, not weeks, with a proposal draft where every claim traces to approved company information and every gap is already a question for the right person.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/sales-proposal-preparation/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-proposal-preparation/)*
 
 ## The outcome
 
@@ -83,8 +83,8 @@ Testing in your environment means running it on past RFPs you have answered, plu
 
 ## Related workflow templates
 
-- [Account handoff](https://fullypowered.ai/workflow templates/account-handoff/)
-- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
 
 ## Make it yours
 

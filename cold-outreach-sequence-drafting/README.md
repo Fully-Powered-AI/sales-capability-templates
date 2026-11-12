@@ -2,7 +2,7 @@
 
 Your outreach reads like you wrote it on your best day: a first note and its follow-ups, drafted in your own voice, where every line about the prospect traces to a dated fact and every line about your company traces to facts you supplied. You read it, edit it and send it yourself.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/)*
 
 ## The outcome
 
@@ -85,7 +85,7 @@ Testing in your environment means running it on prospects you know well, plus ha
 ## Related workflow templates
 
 - [Sales proposal preparation](../sales-proposal-preparation/)
-- [Account handoff](https://fullypowered.ai/workflow templates/account-handoff/)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
 
 ## Make it yours
 

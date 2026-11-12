@@ -2,7 +2,7 @@
 
 Your salespeople get one page on one named competitor: where it is strong, where you are stronger and the proof, what to say when it comes up, and the questions to ask. Nothing about the competitor goes on the card without a dated source; anything unsupported is held back for the approver.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/competitor-battlecard/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/competitor-battlecard/)*
 
 ## The outcome
 
@@ -91,7 +91,7 @@ Testing in your environment means running it on a competitor your team already k
 
 ## Related workflow templates
 
-- [Competitor profile from public pages](https://fullypowered.ai/workflow templates/competitor-profile-from-public-pages/)
+- [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/)
 - [Objection answers and sales one-pager](../objection-answers-and-sales-one-pager/)
 - [Sales call preparation brief](../sales-call-preparation-brief/)
 

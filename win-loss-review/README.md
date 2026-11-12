@@ -2,7 +2,7 @@
 
 Once a quarter your sales lead sees, from the deals you closed, where the losses ended, which kinds of deal you win and lose, what the largest deals show, and which findings rest on enough deals to act on. Actions are proposed in proportion to the evidence, and nothing in your sales system is changed.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/win-loss-review/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/win-loss-review/)*
 
 ## The outcome
 

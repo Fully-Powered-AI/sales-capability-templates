@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Your salespeople get one page on one named competitor: where it is strong, where you are stronger and the proof, what to say when it comes up, and the questions to ask. Nothing about the competitor goes on the card without a dated source; anything unsupported is held back for the approver.",
-  "directory": "https://fullypowered.ai/workflow templates/competitor-battlecard/",
+  "directory": "https://fullypowered.ai/workflows/competitor-battlecard/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

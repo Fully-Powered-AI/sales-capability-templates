@@ -2,7 +2,7 @@
 
 After a sales call, your sales lead sees how it went against your team's own criteria, each point backed by the words actually said, where the call left the deal, and one focus for the next call. It reviews a call, never a person, and gives no score for anyone's file.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/sales-call-scorecard/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-call-scorecard/)*
 
 ## The outcome
 

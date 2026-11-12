@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Your outreach reads like you wrote it on your best day: a first note and its follow-ups, drafted in your own voice, where every line about the prospect traces to a dated fact and every line about your company traces to facts you supplied. You read it, edit it and send it yourself.",
-  "directory": "https://fullypowered.ai/workflow templates/cold-outreach-sequence-drafting/",
+  "directory": "https://fullypowered.ai/workflows/cold-outreach-sequence-drafting/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales",

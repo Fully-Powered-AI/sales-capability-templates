@@ -2,7 +2,7 @@
 
 Before anyone writes a first note, you know which kinds of firm and which roles in them deserve your next conversations. Every firm is tested against your own criteria first and carries a sourced reason, a grade and the questions only a conversation can answer. Nobody is contacted.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/prospect-list-by-role-and-firm-type/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/prospect-list-by-role-and-firm-type/)*
 
 ## The outcome
 
@@ -89,7 +89,7 @@ Testing in your environment means running it on a segment you already know well,
 
 - [Cold outreach sequence drafting](../cold-outreach-sequence-drafting/)
 - [Sales call preparation brief](../sales-call-preparation-brief/)
-- [Competitor profile from public pages](https://fullypowered.ai/workflow templates/competitor-profile-from-public-pages/)
+- [Competitor profile from public pages](https://fullypowered.ai/workflows/competitor-profile-from-public-pages/)
 
 ## Make it yours
 

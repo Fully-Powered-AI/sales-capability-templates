@@ -2,7 +2,7 @@
 
 Before anyone starts on a response, your bid manager sees every requirement in the request checked against your own evidence, your bid criteria tested and the buyer questions ready. A named person decides whether to bid; then a dated plan says who does what by when.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/bid-or-no-bid-and-rfp-response-plan/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/)*
 
 ## The outcome
 

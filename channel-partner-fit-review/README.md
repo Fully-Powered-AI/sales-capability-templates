@@ -2,7 +2,7 @@
 
 When a referral, reseller or alliance partner approaches, the founder or head of partnerships gets one review: evidence the partner brings customers of its own, the type that evidence supports, a ninety-day plan with signs to go on or stop, and the commission range that still beats selling direct. A person decides.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/channel-partner-fit-review/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/channel-partner-fit-review/)*
 
 ## The outcome
 
@@ -99,7 +99,7 @@ Testing in your environment means running it on two or three past approaches you
 
 ## Related workflow templates
 
-- [Referral programme design](https://fullypowered.ai/workflow templates/referral-programme-design/)
+- [Referral programme design](https://fullypowered.ai/workflows/referral-programme-design/)
 - [Prospect list by role and firm type](../prospect-list-by-role-and-firm-type/)
 - [Discount request review](../discount-request-review/)
 

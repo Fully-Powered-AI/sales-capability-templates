@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Your sales lead sees, from the record alone, which open deals have stopped moving, what each one's stage still lacks and whose move it is, and where every recent no ended and why. Nothing in your sales system is changed; corrections are proposed for a person to make.",
-  "directory": "https://fullypowered.ai/workflow templates/stalled-deal-review/",
+  "directory": "https://fullypowered.ai/workflows/stalled-deal-review/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales"

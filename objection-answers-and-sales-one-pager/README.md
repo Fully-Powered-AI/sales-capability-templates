@@ -2,7 +2,7 @@
 
 Walk into the call with an answer for every objection you expect, each with its honest limit and the proof behind it, and one page to leave behind. Everything is built from the facts you supply, so nothing on the page is a claim you cannot stand behind.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/objection-answers-and-sales-one-pager/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/)*
 
 ## The outcome
 
@@ -89,8 +89,8 @@ Testing in your environment means running it on calls you have already had, plus
 
 - [Sales proposal preparation](../sales-proposal-preparation/)
 - [Sales call preparation brief](../sales-call-preparation-brief/)
-- [Inquiry handoff](https://fullypowered.ai/workflow templates/inquiry-handoff/)
-- [Account handoff](https://fullypowered.ai/workflow templates/account-handoff/)
+- [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
 
 ## Make it yours
 

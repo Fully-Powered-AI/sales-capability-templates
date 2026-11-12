@@ -4,7 +4,7 @@
   "kind": "workflow-template",
   "version": "0.1.0",
   "summary": "Walk into the call with an answer for every objection you expect, each with its honest limit and the proof behind it, and one page to leave behind. Everything is built from the facts you supply, so nothing on the page is a claim you cannot stand behind.",
-  "directory": "https://fullypowered.ai/workflow templates/objection-answers-and-sales-one-pager/",
+  "directory": "https://fullypowered.ai/workflows/objection-answers-and-sales-one-pager/",
   "primary_function": "functions/sales",
   "functions": [
     "functions/sales"

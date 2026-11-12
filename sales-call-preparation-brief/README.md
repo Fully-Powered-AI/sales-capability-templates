@@ -2,7 +2,7 @@
 
 Your salesperson, partner or account manager walks into every meeting with a brief they can read in five minutes: who will be there, what has been said and promised so far, what is still open, and a plan for the call. Every line traces to your own notes or a public page, and anything inferred is labelled.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/sales-call-preparation-brief/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sales-call-preparation-brief/)*
 
 ## The outcome
 
@@ -90,8 +90,8 @@ Testing in your environment means running it on meetings you have already had, p
 ## Related workflow templates
 
 - [Sales proposal preparation](../sales-proposal-preparation/)
-- [Account handoff](https://fullypowered.ai/workflow templates/account-handoff/)
-- [Client-status update preparation](https://fullypowered.ai/workflow templates/client-status-update-preparation/)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
 
 ## Make it yours
 

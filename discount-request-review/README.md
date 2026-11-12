@@ -2,7 +2,7 @@
 
 Before a price below list goes to a customer, whoever approves it gets one page: the discount and what it costs in margin, every clause of your own written policy met or missed, who approves and in what order, and what the customer gives in return. A person decides; nothing is sent.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/discount-request-review/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/discount-request-review/)*
 
 ## The outcome
 

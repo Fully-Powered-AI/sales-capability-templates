@@ -2,7 +2,7 @@
 
 Your account executive holds one late-stage deal on two pages: the buyer's case for buying now, counted from the buyer's own figures, and a dated plan of every step to signature with its owner on each side. The seller decides what the buyer sees; nothing reaches the sales system without approval.
 
-*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflow templates/deal-close-plan/)*
+*Workflow template · Sales · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/deal-close-plan/)*
 
 ## The outcome
 
